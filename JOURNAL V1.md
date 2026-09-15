@@ -135,3 +135,22 @@ Well I got to pick a MOUNT first cause there's a lot,
 I will go with The GASKET MOUNT cause it helps the switches to sound better while typing ig. What's the points of having an Mechanical Keyboard if u don't have the fell while typing , ANYWAYS, TO THE DESIGNIG PART 
  ### - DESIGNIG THE CASE :-
  For making the case I am using software called ____________  u may be familiar with it cause and I know some basics of it and also I am following the guide (DOCS) of HACKPAD just the CASE part
+
+
+
+
+## CALCULATION :-
+Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
+
+| Item | Cost |
+|------|------|
+| PCB | $37.84 |
+| Switches, Keycaps, Encoder, Display | $15.00 |
+| Plastic Case | Free (Printing Legion) |
+| Electronic Components | $22.18 |
+| Display Connector | $7.00 |
+| Buffer for shipping and fees | $5.00 |
+| **Total** | **~$88.02** |
+Ok I finished my freaking bom I hope the reviewers are finally satisfied. I just fixed everything the reviewer told me to fix can I please
+get approved now???
+ 
