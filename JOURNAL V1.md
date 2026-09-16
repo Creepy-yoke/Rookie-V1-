@@ -134,9 +134,15 @@ Well I got to pick a MOUNT first cause there's a lot,
                                                                                                                                       
 I will go with The GASKET MOUNT cause it helps the switches to sound better while typing ig. What's the points of having an Mechanical Keyboard if u don't have the fell while typing , ANYWAYS, TO THE DESIGNIG PART 
  ### - DESIGNIG THE CASE :-
- For making the case I am using software called ____________  u may be familiar with it cause and I know some basics of it and also I am following the guide (DOCS) of HACKPAD just the CASE part
+ For making the case I am using software called Onshape u may be familiar with it cause it's only one I know and also I am following the guide (DOCS) of HACKPAD just the CASE part
 
+ I wanted the light's to shine in front of the keyboard and joystick border must be in hexagon 
+  Here's some reference pic from AI I created
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d2b1ccdd-2159-4422-a214-0280c4b94a30" />
 
+<img width="478" height="703" alt="image" src="https://github.com/user-attachments/assets/f6d5fd0b-18cb-4199-878b-1d4eedd73dc6" />
+
+I can't explain much but I will add a timelapse video
 
 
 ## CALCULATION :-
