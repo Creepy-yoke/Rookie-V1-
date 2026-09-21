@@ -1,3 +1,4 @@
+THIS @MD ( https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE )
 # Rookie-V1
 Hi, I am making a cool Custom Keyboard from scratch, by myself
 
