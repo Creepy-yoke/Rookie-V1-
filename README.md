@@ -34,6 +34,17 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 UPCOMIMG........................
 
 
+## Schematic on KiCad
+UPCOMIMG........................
+Source : src/kicad/schem/
+
+
+## PCB on KiCad
+UPCOMIMG........................
+Source : src/KiCad/pcb/
+
+## Build of the Board
+UPCOMIMG........................
 
 
 ## Bill of Materials
@@ -50,6 +61,9 @@ Source: `production/pcb/bom.csv`
 
 
 
+## JLPCB order
+### LCSC parts
+UPCOMIMG........................
 
 
 
