@@ -9,6 +9,14 @@ After finishing the schematic, I moved on to designing the PCB. I arranged the c
 This project is helping me learn more about PCB design, KiCad, and how a keyboard actually works from the schematic to the final PCB.
 
 
+<div align="center">
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
+![Series](https://img.shields.io/badge/Series-APX-red.svg)
+![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/APX%20Devboard)
+
+</div>
 
 <p align="center">
   <a href="#about-the-project">About</a> •
