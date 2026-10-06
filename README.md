@@ -1,13 +1,6 @@
 THIS  IS [@MD](https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE)
 # Rookie-V1 
 Hi, I am making a cool Custom Keyboard from scratch, by myself
-### About the Project
-
-This is my custom 65% Alice layout keyboard that I’m designing from scratch. I started with watching some YOUTUBE videos and also took some help of AI for boosting up my Knowledge.
-then I worked on schematic of the keyboard matrix, diodes, switches,  OLED display, Joystick, and the other components.
-After finishing the schematic, I moved on to designing the PCB. I arranged the components, worked on the routing, and checked the connections and DRC errors to make sure everything was correct.
-This project is helping me learn more about PCB design, KiCad, and how a keyboard actually works from the schematic to the final PCB.
-
 
 <div align="center">
 
@@ -16,6 +9,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 ![Hackatime Badge](https://img.shields.io/badge/Hacktime-10hr-purple)
 
 </div>
+
 
 <p align="center">
   <a href="#about-the-project">About</a> •
@@ -28,18 +22,17 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 </p>
 
 
+### About the Project
 
-
-
-
-
-
-
-
+This is my custom 65% Alice layout keyboard that I’m designing from scratch. I started with watching some YOUTUBE videos and also took some help of AI for boosting up my Knowledge.
+then I worked on schematic of the keyboard matrix, diodes, switches,  OLED display, Joystick, and the other components.
+After finishing the schematic, I moved on to designing the PCB. I arranged the components, worked on the routing, and checked the connections and DRC errors to make sure everything was correct.
+This project is helping me learn more about PCB design, KiCad, and how a keyboard actually works from the schematic to the final PCB.
 
 
 ### Features
 UPCOMIMG........................
+
 
 
 
