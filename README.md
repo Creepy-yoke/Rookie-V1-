@@ -17,8 +17,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
   <a href="#pcb-on-kicad">PCB</a> •
   <a href="#bill-of-materials">BOM</a> •
   <a href="#license">License</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#credits">Credits</a>
+  <a href="#credits">Credits</a> •
 </p>
 
 
