@@ -13,7 +13,10 @@ I also made my  layout in https://www.keyboard-layout-editor.com/
 ## Entry 2 — MAKING my SCHEMATIC
 Date: 7/26/2026
 
-Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool                           
+Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool     
+<img width="1257" height="604" alt="MATRIX SCHEMTIC SWITCHES" src="https://github.com/user-attachments/assets/3d787b9c-45da-429b-a8d7-0bd7fff881c3" />
+<img width="616" height="605" alt="KEYPORD PIC SHEMATIC" src="https://github.com/user-attachments/assets/b2e6d629-10a8-40b7-8733-c4f7630ee40b" />
+
 <img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/5d66d161-8bd5-44ad-8ee7-96906f66c585" />.
 .
 I started with the matrix and made a lot of nice progress with tracing and connecting the other components. I also fixed some wiring and checked that everything was connected properly.
