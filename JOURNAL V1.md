@@ -13,14 +13,11 @@ I also made my  layout in https://www.keyboard-layout-editor.com/
 ## Entry 2 — MAKING my SCHEMATIC
 Date: 7/26/2026
 
-Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool     
+Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool. I started with the matrix and made a lot of nice progress with tracing and connecting the other components. I also fixed some wiring and checked that everything was connected properly.     
 <img width="1257" height="604" alt="MATRIX SCHEMTIC SWITCHES" src="https://github.com/user-attachments/assets/3d787b9c-45da-429b-a8d7-0bd7fff881c3" />
 <img width="616" height="605" alt="KEYPORD PIC SHEMATIC" src="https://github.com/user-attachments/assets/b2e6d629-10a8-40b7-8733-c4f7630ee40b" />
 
-<img width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/5d66d161-8bd5-44ad-8ee7-96906f66c585" />.
-.
-I started with the matrix and made a lot of nice progress with tracing and connecting the other components. I also fixed some wiring and checked that everything was connected properly.
-<img width="1057" height="370" alt="image" src="https://github.com/user-attachments/assets/82570bed-373c-4c8e-8002-317c12303986" />
+
 
                                              
 
@@ -47,6 +44,14 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 
 ## Assigning Footprints
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
+
+<img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/935c620a-a33f-4145-bd1b-302839dcd7b4" />
+<img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/92089a86-d262-4f94-afbc-d482ee58fd79" />
+<img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/0e3d8441-f0d7-4a6b-b70d-c9376467eba7" />
+<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/ed8846e9-3c24-44a4-84c7-ceeffd28b952" />
+
+
+
 
 # Okay it's me after many  hours later :- 
 Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC after working Continuously on it  , LETS GO! 
