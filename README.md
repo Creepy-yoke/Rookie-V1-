@@ -13,8 +13,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
-![Series](https://img.shields.io/badge/Series-APX-red.svg)
-![Hackatime Badge](https://hackatime-badge.hackclub.com/U0A2SJ7B739/APX%20Devboard)
+![Hackatime Badge](https://img.shields.io/badge/Hacktime-10hr-purple)
 
 </div>
 
