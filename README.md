@@ -1,4 +1,4 @@
-THIS @MD ( https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE )
+THIS  IS [@MD](https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE)
 # Rookie-V1 
 Hi, I am making a cool Custom Keyboard from scratch, by myself
 ### About the Project
@@ -81,4 +81,4 @@ This project uses:
 
 #### NOTE :-
 If u want step by step PROCESS to make a simple easy Keyboard which include's Everything, SO just follow the  #### KEEB DOCS
-HERE'S THE LINKE { https://keeb.hackclub.com/docs/getting-started/ }
+[HERE]( https://keeb.hackclub.com/docs/getting-started/ ) IS THE LINK.
