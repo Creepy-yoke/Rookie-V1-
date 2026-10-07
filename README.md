@@ -76,6 +76,9 @@ Source: `production/pcb/bom.csv`
 | 4   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
 | 5   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
 | 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
+<br>
+[Here](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
+
 
 ## Amazon order
 ### amzzon parts
