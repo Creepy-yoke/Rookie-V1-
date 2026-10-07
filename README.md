@@ -1,4 +1,4 @@
-THIS  IS [@MD](https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE)
+
 # Rookie-V1 
 Hi, I am making a cool Custom Keyboard from scratch, by myself
 
@@ -75,7 +75,9 @@ I learned how to turn a keyboard schematic into a proper PCB and how important i
 gracias!
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/LICENSE.md) file for details [(MIT LICENSE-2)](https://mit-license.org/).
+<br>
+If you have remixed, adapted or build upon this work and wish to remove the non-commercial clause for your own project please contact me on Slack this is [@MD](https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE).Your request is more than likely to be granted. The non-commercial part of the license is intended to avoid direct copies of the work to be sold for commercial gain by third parties.
 
 ## Credits
 This project uses:
