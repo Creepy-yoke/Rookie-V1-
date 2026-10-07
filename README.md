@@ -76,8 +76,8 @@ Source: `production/pcb/bom.csv`
 | 4   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
 | 5   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
 | 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
-<br>
-[Here](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
+
+[HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
 
 
 ## Amazon order
@@ -98,10 +98,7 @@ This project uses:
 - Lion Circuits - PCB manufacturing
 - Amazon - Parts order
 - OnShape - CAD case + render
-  
-<br>
-<br>
-<br>
+<hr>
 
   ### WHAT I LEARNED
 Not gonna lie I learned many things it was a life time experience and next time I make an PCB for some other project it's  gonna be easy for me I learned shortcuts that will save me time and also made some friend's on SLACK that helped me , 
@@ -109,7 +106,7 @@ also #SHOUTOUT to @Flyingfish he saved me some time AND also THX to them who wer
 - Here's what I really learned :
 I learned how to turn a keyboard schematic into a proper PCB and how important it is to check every connection before moving forward. I also learned how to arrange components properly, route traces, use vias, and fix DRC errors in KiCad. Working on this project helped me understand more about PCB design and how all the different parts of a keyboard connect and work together.
 gracias!
-
+<br>
 #### NOTE :-
 If u want step by step PROCESS to make a simple easy Keyboard which include's Everything, SO just follow the  #### KEEB DOCS
 [HERE]( https://keeb.hackclub.com/docs/getting-started/ ) IS THE LINK.
