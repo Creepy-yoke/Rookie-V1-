@@ -65,9 +65,6 @@ STAY TUNED
 
 ## Bill of Materials
 Source: `production/pcb/bom.csv`
-
-
-
 | S.no | Product Name | Footprint | Quantity | Value | Link |
 |-----|-----|-----|-----|-----|-----|
 | 1   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
@@ -78,12 +75,6 @@ Source: `production/pcb/bom.csv`
 | 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
 
 [HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
-
-
-## Amazon order
-### amzzon parts
-UPCOMIMG........................
-
 
 
 ## License
