@@ -59,33 +59,29 @@ Source : src/KiCad/pcb/
 ## Build of the Board
 UPCOMIMG........................
 STAY TUNED
+<br>
+<br>
+
 
 ## Bill of Materials
-
 Source: `production/pcb/bom.csv`
 
-      |S.no     |Product Name                      |Footprint                       |Quantity| Value          |Link         | 
-      |---------|----------------------------------|--------------------------------|--------|----------------|-------------|
-      |1        |                                  |                                |        |                |             |
-      |2        |                                  |                                |        |                |             |
-      |3        |                                  |                                |        |                |             |
-      |4        |                                  |                                |        |                |             |
-      |5        |                                  |                                |        |                |             |
 
 
+| S.no | Product Name | Footprint | Quantity | Value | Link |
+|-----|-----|-----|-----|-----|-----|
+| 1   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
+| 2   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
+| 3   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
+| 4   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
+| 5   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
+| 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
 
 ## Amazon order
 ### amzzon parts
 UPCOMIMG........................
 
 
-
-### WHAT I LEARNED
-Not gonna lie I learned many things it was a life time experience and next time I make an PCB for some other project it's  gonna be easy for me I learned shortcuts that will save me time and also made some friend's on SLACK that helped me , 
-also #SHOUTOUT to @Flyingfish he saved me some time AND also THX to them who were  part of my journey.
-- Here's what I really learned :
-I learned how to turn a keyboard schematic into a proper PCB and how important it is to check every connection before moving forward. I also learned how to arrange components properly, route traces, use vias, and fix DRC errors in KiCad. Working on this project helped me understand more about PCB design and how all the different parts of a keyboard connect and work together.
-gracias!
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/LICENSE.md) file for details [(MIT LICENSE-2)](https://mit-license.org/).
@@ -99,6 +95,17 @@ This project uses:
 - Lion Circuits - PCB manufacturing
 - Amazon - Parts order
 - OnShape - CAD case + render
+  
+<br>
+<br>
+<br>
+
+  ### WHAT I LEARNED
+Not gonna lie I learned many things it was a life time experience and next time I make an PCB for some other project it's  gonna be easy for me I learned shortcuts that will save me time and also made some friend's on SLACK that helped me , 
+also #SHOUTOUT to @Flyingfish he saved me some time AND also THX to them who were  part of my journey.
+- Here's what I really learned :
+I learned how to turn a keyboard schematic into a proper PCB and how important it is to check every connection before moving forward. I also learned how to arrange components properly, route traces, use vias, and fix DRC errors in KiCad. Working on this project helped me understand more about PCB design and how all the different parts of a keyboard connect and work together.
+gracias!
 
 #### NOTE :-
 If u want step by step PROCESS to make a simple easy Keyboard which include's Everything, SO just follow the  #### KEEB DOCS
