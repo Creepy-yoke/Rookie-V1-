@@ -1,5 +1,7 @@
-# Rookie-V1 
-Hi, I am making a cool Custom Keyboard from scratch, by myself
+<div align="center">
+<h1> Rookie-V1 </h1>
+<p>Hi, I am making a cool Custom Keyboard from scratch, by myself</p>
+</div>
 
 <div align="center">
 
