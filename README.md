@@ -1,4 +1,3 @@
-<img width="1201" height="552" alt="image" src="https://github.com/user-attachments/assets/93ffa513-390f-4209-96da-2695357dbfb2" />
 # Rookie-V1 
 Hi, I am making a cool Custom Keyboard from scratch, by myself
 
@@ -65,13 +64,13 @@ STAY TUNED
 
 Source: `production/pcb/bom.csv`
 
-|Designator                       |Footprint                       |Quantity|Value           |amazon Part #|
-|---------------------------------|--------------------------------|--------|----------------|-------------|
-|   1                              |                                |        |                |             |
-|   2                              |                                |        |                |             |
-|   3                              |                                |        |                |             |
-|   4                              |                                |        |                |             |
-|   5                              |                                |        |                |             |
+      |S.no     |Product Name                      |Footprint                       |Quantity| Value          |Link         | 
+      |---------|----------------------------------|--------------------------------|--------|----------------|-------------|
+      |1        |                                  |                                |        |                |             |
+      |2        |                                  |                                |        |                |             |
+      |3        |                                  |                                |        |                |             |
+      |4        |                                  |                                |        |                |             |
+      |5        |                                  |                                |        |                |             |
 
 
 
@@ -93,14 +92,13 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 <br>
 If you have remixed, adapted or build upon this work and wish to remove the non-commercial clause for your own project please contact me on Slack this is [@MD](https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE).Your request is more than likely to be granted. The non-commercial part of the license is intended to avoid direct copies of the work to be sold for commercial gain by third parties.
 
+
 ## Credits
 This project uses:
 - KiCad - PCB design and schematic capture
 - Lion Circuits - PCB manufacturing
 - Amazon - Parts order
-- ????? - Silkscreen and banner design
 - OnShape - CAD case + render
-- @NotARoomba - Readme template ------------------>>>>>>>>>>>>>  ???????????????????
 
 #### NOTE :-
 If u want step by step PROCESS to make a simple easy Keyboard which include's Everything, SO just follow the  #### KEEB DOCS
