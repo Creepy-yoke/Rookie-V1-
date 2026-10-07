@@ -1,4 +1,4 @@
-
+<img width="1201" height="552" alt="image" src="https://github.com/user-attachments/assets/93ffa513-390f-4209-96da-2695357dbfb2" />
 # Rookie-V1 
 Hi, I am making a cool Custom Keyboard from scratch, by myself
 
@@ -31,21 +31,35 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 
 
 ### Features
-UPCOMIMG........................
 
+- 65% Alice layout — split and angled for a more ergonomic typing position.
+- Raspberry Pi Pico (RP2040) 
+- 65 keys [Gateron G Pro 3.0 RGB switches](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) arranged in your custom 5 × 15 matrix. MX-compatible mechanical switches.
+- Hot-swappable sockets 
+- Per-key RGB - 65 [SK6812 MINI-E](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) 
+- [OLED Display](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/)
+- [Analog joystick](https://www.adafruit.com/product/512) 
+- KMK Keyboard firmware.
+- PCB-mounted stabilizers — for your larger keys.
+- M3 mounting hardware — for mounting the PCB/case.
+- Custom Case for the keyboard 
+- Custom PCB — designed specifically for your Alice layout.
 
 ## Schematic on KiCad
-UPCOMIMG........................
 Source : src/kicad/schem/
+<br>
+<img width="1251" height="477" alt="image" src="https://github.com/user-attachments/assets/f8c74baf-adf7-42fb-8d31-cd2364686303" />
 
 
 ## PCB on KiCad
-UPCOMIMG........................
 Source : src/KiCad/pcb/
+<br>
+<img width="1201" height="552" alt="image" src="https://github.com/user-attachments/assets/817ff064-3f32-41cb-8f98-d27ca0399c0c" />
+
 
 ## Build of the Board
 UPCOMIMG........................
-
+STAY TUNED
 
 ## Bill of Materials
 
@@ -61,8 +75,8 @@ Source: `production/pcb/bom.csv`
 
 
 
-## JLPCB order
-### LCSC parts
+## Amazon order
+### amzzon parts
 UPCOMIMG........................
 
 
