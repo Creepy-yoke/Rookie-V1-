@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Rookie-V1 </h1>
+<h1> Rookie V1 </h1>
 <p>Hi, I am making a cool Custom Keyboard from scratch, by myself</p>
 </div>
 
