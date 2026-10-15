@@ -151,20 +151,15 @@ I will go with The GASKET MOUNT cause it helps the switches to sound better whil
 <img width="478" height="703" alt="image" src="https://github.com/user-attachments/assets/f6d5fd0b-18cb-4199-878b-1d4eedd73dc6" />
 
 I can't explain much but I will add a timelapse video
-
+ So, [HERE](https://lapse.hackclub.com/timelapse/4eNLzdBvZSJT) is the link of the built I designed the body and I cant add my PCB .step file cause its make my the software too slow. I also added the screw holes and the light basr in fromt wall of the case and a cutout shape where the Pico pi micro-usb goes.
+ HERES THE LOOK , still need to do a lot of work tho.
+ TIME SPENT (1):- 1HR 17MIN
+<img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
 ## CALCULATION :-
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
-| Item | Cost |
-|------|------|
-| PCB | $37.84 |
-| Switches, Keycaps, Encoder, Display | $15.00 |
-| Plastic Case | Free (Printing Legion) |
-| Electronic Components | $22.18 |
-| Display Connector | $7.00 |
-| Buffer for shipping and fees | $5.00 |
-| **Total** | **~$88.02** |
+
 Ok I finished my freaking bom I hope the reviewers are finally satisfied. I just fixed everything the reviewer told me to fix can I please
 get approved now???
  
