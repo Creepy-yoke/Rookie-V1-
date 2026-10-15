@@ -151,8 +151,11 @@ I will go with The GASKET MOUNT cause it helps the switches to sound better whil
 <img width="478" height="703" alt="image" src="https://github.com/user-attachments/assets/f6d5fd0b-18cb-4199-878b-1d4eedd73dc6" />
 
 I can't explain much but I will add a timelapse video
+ <br>
  So, [HERE](https://lapse.hackclub.com/timelapse/4eNLzdBvZSJT) is the link of the built I designed the body and I cant add my PCB .step file cause its make my the software too slow. I also added the screw holes and the light basr in fromt wall of the case and a cutout shape where the Pico pi micro-usb goes.
+ <br>
  HERES THE LOOK , still need to do a lot of work tho.
+ <br>
  TIME SPENT (1):- 1HR 17MIN
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
