@@ -47,13 +47,13 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 - Custom PCB — designed specifically for your Alice layout.
 
 ## Schematic on KiCad
-Source : src/kicad/schem/
+Source : [Rookie V1.kicad_sch](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(PCB))
 <br>
 <img width="1251" height="477" alt="image" src="https://github.com/user-attachments/assets/f8c74baf-adf7-42fb-8d31-cd2364686303" />
 
 
 ## PCB on KiCad
-Source : src/KiCad/pcb/
+Source : [Rookie V1.kicad_pcb](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(PCB))
 <br>
 <img width="1201" height="552" alt="image" src="https://github.com/user-attachments/assets/817ff064-3f32-41cb-8f98-d27ca0399c0c" />
 
