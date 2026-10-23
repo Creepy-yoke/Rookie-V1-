@@ -4,7 +4,7 @@
 Date: 7/25/2026
 I started planning out the layout for my keyboard. I really didn't want a  keyboard where your hand are kept TOO close and become sweaty, So I found a layout that have some space between, but at the same time, I wanted to maintain most of the function that I would have on a conventional laptop. So, I settled with a 65% layout, I used the reference picture below. its called the ALICE LAYOUT.
 I also made my  layout in https://www.keyboard-layout-editor.com/                                                                            
-  HERE'S THE KEYBORAD **RAW DATA** :- IT WILL BE IN FOLDERS ON LEFT U CAN CHECK IT OUT OR DO SOME ExERIMENT WITH IT .
+  HERE'S THE KEYBORAD     [RAW DATA](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/LAYOUT.json)
 ###### *TOTAL HOURS FOR LAYOUT* :  1hr-75min
 
 <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/d08eb092-acad-4209-be25-c966cc5bad15" />
@@ -154,7 +154,7 @@ I will go with The GASKET MOUNT cause it helps the switches to sound better whil
 
 I can't explain much but I will add a timelapse video
  <br>
- So, [HERE](https://lapse.hackclub.com/timelapse/4eNLzdBvZSJT) is the link of the built I designed the body and I cant add my PCB .step file cause its make my the software too slow. I also added the screw holes and the light basr in fromt wall of the case and a cutout shape where the Pico pi micro-usb goes.
+ So, I designed the body and I cant add my PCB .step file cause its make my the software too slow. I also added the screw holes and the light basr in fromt wall of the case and a cutout shape where the Pico pi micro-usb goes.
  <br>
  HERES THE LOOK , still need to do a lot of work tho.
  <br>
