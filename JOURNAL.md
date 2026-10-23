@@ -58,7 +58,7 @@ Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC aft
 After spending a lot of time checking connections and making sure every component was placed correctly ,  I made tremendous progress with the Schematic and was able to complete it , everything went extremely well this session. 
 I implemented resistors and capacitors wherever I needed them I was able to complete the entire schematic. I also assigned footprints to all the components. Along the way I learned a lot about how different parts connect together and fixed several small mistakes that were causing errors.
 HERE ARE SOME PIC OF FINAL LOOK :- 
-###### *TOTAL HOURS FOR LAYOUT* : 15 hr
+###### *TOTAL HOURS FOR SCHEMATIC* : 15 hr
 <img width="1037" height="366" alt="image" src="https://github.com/user-attachments/assets/7caafe6a-a66c-4d30-a9d9-e0d3e020938f" />
 
 Seeing the schematic finally come together feels really satisfying and everything went extremely well this session. 
@@ -125,7 +125,7 @@ And after that it was good to go
 3D (keycaps , hotswapp , display , Joystick )
 I added there 3d models from GrabCAD so l can get a preety good look how my Keyboard going to look and it also helps me to know  how much height should be the walls (boarders) of the case. 
 <img width="1061" height="474" alt="image" src="https://github.com/user-attachments/assets/87549082-058a-4c85-8c9d-9cad6780b664" />
-###### *TOTAL HOURS FOR LAYOUT* :  18hr
+<br>
 ####  Last look of the PCB
 <img width="1050" height="480" alt="image" src="https://github.com/user-attachments/assets/faf2e541-6268-4f27-9ddd-df7d07e9a735" />
 ## Okay it's me after many  hours later (AGAIN) :- 
@@ -134,6 +134,8 @@ I am not gonna lie it took a lot lot lot of time bruh (MOST WITH THE GD ERROR) ,
 Well , l am relieved and the last step is just to make an CASE for it 
 Cant wait to finish it  and look how it turns out, supper dupper excited.      
 SO LETS GET GOING ,BYE    
+<br>
+###### *TOTAL HOURS FOR PCB* :  18hr
 
 ## Entry 3 — THE CASE
 Well I got to pick a MOUNT first cause there's a lot,
