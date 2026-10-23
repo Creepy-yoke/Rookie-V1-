@@ -43,7 +43,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 - PCB-mounted stabilizers — for your larger keys.
 - M3 mounting hardware — for mounting the PCB/case.
 - Custom Case for the keyboard 
-- Custom PCB — designed specifically for your Alice layout.
+- Custom PCB — designed specifically for my Alice layout.
 
 ## Schematic on KiCad
 Source : [Rookie V1.kicad_sch](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(PCB))
