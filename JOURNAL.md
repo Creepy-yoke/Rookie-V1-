@@ -12,15 +12,13 @@ HERE'S THE KEYBORAD [RAW DATA](https://github.com/Creepy-yoke/Rookie-V1-/blob/ma
 <img width="432" height="189" alt="layouut" src="https://github.com/user-attachments/assets/d36e256b-bb1d-48da-ae0b-e1364ab0c700" />
                                                                                                                 
 ## Entry 2 — MAKING my SCHEMATIC
-Date: 7/26/2026
+Date: 7/31/2026
 
 Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool. I started with the matrix and made a lot of nice progress with tracing and connecting the other components. I also fixed some wiring and checked that everything was connected properly.     
 <img width="1257" height="604" alt="MATRIX SCHEMTIC SWITCHES" src="https://github.com/user-attachments/assets/3d787b9c-45da-429b-a8d7-0bd7fff881c3" />
 <img width="616" height="605" alt="KEYPORD PIC SHEMATIC" src="https://github.com/user-attachments/assets/b2e6d629-10a8-40b7-8733-c4f7630ee40b" />
 
 
-
-                                             
 
 ### Adding the Other Components
 
@@ -32,8 +30,9 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
 (UPDATE FOR THiS PROBLEM:- It can also be solved after I connected my 5v to VBUS on Raspberry Pi poco so there was no need for PWR_flag )
 <img width="824" height="565" alt="image" src="https://github.com/user-attachments/assets/d199213e-dd65-445d-975f-5bd75159b55b" />
 <img width="623" height="384" alt="image" src="https://github.com/user-attachments/assets/83f04c98-e525-4b72-b055-d60e63be806a" />
-  AND TIME TO GET BACK TO KICAD , SEE U IN A MINUTE
-                                                                                                                        
+  AND TIME TO GET BACK TO KICAD , SEE U 
+
+Date: 07/32/2026                                                                                                                
 Wired up the EC11 encoder (A/B/C for rotation, S1/S2 for the click). Also connected the joystick analog it was preety simple to connect then, Spent a while figuring out OLED options — I wanted A looong screen put apparently 4 pin OLEDs don't come in 256x32, so I had to settle for a 128x32 display,  which gave a me a bit more surface area. here's a LOOK!
 <img width="769" height="582" alt="image" src="https://github.com/user-attachments/assets/cc9e7f90-6eb1-41f3-a087-e7e7c042cb34" />
 I still need to connect all the components (some parts like :- key matrix, RGB matrix thingyy and etc.) and almost  forgot add  stabilizer and mounting holes and also need to assign the footprints for the components
@@ -43,6 +42,7 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 
 ### UPDATE: I have removed the Rotary Encoder due to less GPIO pins
 
+Date: 07/34/2026
 ## Assigning Footprints
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
 
@@ -67,23 +67,22 @@ Seeing the schematic finally come together feels really satisfying and everythin
 #### NOW  IT'S READY FOR THE PCB LAYOUT  , ( BUT FIRS I NEED SOME REST, MY BACK IS PAINING)
 
 ## Entry 3 — MAKING my PCB
-
+Date: 07/36/2026
 ##  Arranging the PCB
 After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
 <img width="1073" height="465" alt="image" src="https://github.com/user-attachments/assets/7b749477-4d4e-48d5-9fdc-d83849447b36" />
 
-
+Date: 07/36/2026
 ## Routing the PCB :-
-
 After arranging all the components on the PCB, I started working on routing the traces.
 The ratsnest lines showed me which components still needed to be electrically connected. My goal was to route these connections while keeping the PCB neat and avoiding unnecessary overlaps.
-
+Date: 07/37/2026
 #### Keyboard Matrix :-
 So I first focused on the keyboard matrix connections, routing the traces between the switches and diodes. Since there were many connections it took me some time to get there.
 Now for the Oled display, Joystick, RGB LEDs and Raspberry Pi Pico
 After routing the matrix, I worked on the connections for the Oled display, Joystick, RGB LEDs and **Raspberry Pi Pico. **
 OLED and Joystick were easy but the       RGB Leds took me a lot of time to complete
-
+Date: 07/37/2026
 #### RGB LED Routing :-
 The RGB LEDs required additional routing because each LED needed connections for power, ground, data input, and data output.
 I connected the LEDs in sequence so that the RGB data signal could travel from one LED to the next.
