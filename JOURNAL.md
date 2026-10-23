@@ -5,7 +5,7 @@ Date: 7/25/2026
 I started planning out the layout for my keyboard. I really didn't want a  keyboard where your hand are kept TOO close and become sweaty, So I found a layout that have some space between, but at the same time, I wanted to maintain most of the function that I would have on a conventional laptop. So, I settled with a 65% layout, I used the reference picture below. its called the ALICE LAYOUT.
 I also made my  layout in https://www.keyboard-layout-editor.com/                                                                            
   HERE'S THE KEYBORAD     [RAW DATA](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/LAYOUT.json)
-###### *TOTAL HOURS FOR LAYOUT* :  1hr-75min
+###### *TOTAL HOURS FOR LAYOUT* :  2 hr
 
 <img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/d08eb092-acad-4209-be25-c966cc5bad15" />
 <img width="432" height="189" alt="layouut" src="https://github.com/user-attachments/assets/d36e256b-bb1d-48da-ae0b-e1364ab0c700" />
@@ -68,7 +68,7 @@ Seeing the schematic finally come together feels really satisfying and everythin
 ## Entry 3 — MAKING my PCB
 
 ##  Arranging the PCB
-After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Rotary encoder, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
+After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
 <img width="1073" height="465" alt="image" src="https://github.com/user-attachments/assets/7b749477-4d4e-48d5-9fdc-d83849447b36" />
 
 
@@ -165,6 +165,5 @@ I can't explain much but I will add a timelapse video
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
 
-Ok I finished my freaking bom I hope the reviewers are finally satisfied. I just fixed everything the reviewer told me to fix can I please
-get approved now???
+Ok I finished my freaking bom I hope the reviewers are finally satisfied. I just fixed everything the reviewer told me to fix it.
  
