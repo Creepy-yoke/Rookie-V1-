@@ -1,6 +1,7 @@
 # Keyboard Build Journal
 
 ## Entry 1 — Figuring out hardware and layout
+<br>
 Date: 07/30/2026
 <br>
 I started planning out the layout for my keyboard. I really didn't want a  keyboard where your hand are kept TOO close and become sweaty, So I found a layout that have some space between, but at the same time, I wanted to maintain most of the function that I would have on a conventional laptop. So, I settled with a 65% layout, I used the reference picture below. its called the ALICE LAYOUT.
