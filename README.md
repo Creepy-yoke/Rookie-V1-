@@ -60,10 +60,11 @@ Source : [Rookie V1.kicad_pcb](https://github.com/Creepy-yoke/Rookie-V1-/tree/ma
 <img width="1201" height="552" alt="image" src="https://github.com/user-attachments/assets/817ff064-3f32-41cb-8f98-d27ca0399c0c" />
 
 ## CASE on Onshape
+UPCOMIMG........................
 <br>
 <br>
 <br>
-<br>
+
 ## Build of the Board
 UPCOMIMG........................
 STAY TUNED
