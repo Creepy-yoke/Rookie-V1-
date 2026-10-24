@@ -35,7 +35,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 
 - 65% Alice layout — split and angled for a more ergonomic typing position.
 - Raspberry Pi Pico (RP2040) 
-- 65 keys [Gateron G Pro 3.0 RGB switches](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) arranged in your custom 5 × 15 matrix. MX-compatible mechanical switches.
+- 65 keys [Gateron G Pro 3.0 RGB switches](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) arranged in my custom 5 × 15 matrix. MX-compatible mechanical switches.
 - Hot-swappable sockets 
 - Per-key RGB - 65 [SK6812 MINI-E](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) 
 - [OLED Display](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/)
@@ -62,7 +62,12 @@ Source : [Rookie V1.kicad_pcb](https://github.com/Creepy-yoke/Rookie-V1-/tree/ma
 Source : [Rookie V1 (CASE).step](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(CASE))
 <br>
 <br>
+
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/d134c56b-84ef-4d43-a8ee-1d3c05b1d169" />
+
+<br>
+[Onshape link](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8)
+
 
 ## Build of the Board
 UPCOMIMG........................
@@ -72,7 +77,7 @@ STAY TUNED
 
 
 ## Bill of Materials
-Source: ??
+Source: [BOM V1.csv](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv)
 <br>
 The following table lists the main components used in the Rookie V1 custom Alice keyboard. Prices are estimates in INR and may vary by supplier.
 
@@ -111,16 +116,7 @@ This is not the full keyboard cost. RGB LEDs, remaining electronic parts,
 stabilizers, mounting hardware, PCB fabrication, plate, case, keycaps
 and shipping still need confirmed prices.
 The rotary encoder is not included because it was removed from the design.
-
-
-
-
-
-
-
-
-
-[HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
+<br>
 
 
 ## License
