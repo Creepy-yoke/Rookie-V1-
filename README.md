@@ -79,37 +79,46 @@ Source: ???
 
 The following table lists the main components used in the Rookie V1 custom Alice keyboard. Prices are estimates in INR and may vary by supplier.
 
-| S.no | Product Name | Footprint / Specification | Quantity | Estimated Value (INR) | Link |
+## Bill of Materials
+
+The following BOM describes the Rookie V1 custom Alice keyboard.
+Prices are estimates in INR. TBD means the exact part or price
+must be confirmed before ordering.
+
+| S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
 |---:|---|---|---:|---:|---|
-| 1 | Raspberry Pi Pico | RP2040 | 1 | ₹384 | [Supplier](https://www.thingbits.in/t/brands/raspberry-pi/pico-slash-rp2040) |
-| 2 | Gateron G Pro 3.0 Brown Switches | MX-compatible | 65 | ₹1,330 | [Supplier](https://stackskb.com/) |
-| 3 | Gateron Hot-swap Sockets | KS-2P02B01-01 family; verify exact part | 65 | ₹650 | [Supplier](https://stackskb.com/) |
-| 4 | 1N4148W Diodes | SMD; verify footprint | 65 | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
-| 5 | SK6812 MINI-E RGB LEDs | Addressable RGB | 65 | ≈ ₹2,100* | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
-| 6 | SSD1306 OLED Display | 0.91-inch, 128×32, I²C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
-| 7 | Analog Joystick Module | X/Y axes | 1 | ≈ ₹52 | [Supplier](https://directronics.in/product/joystick-module) |
-| 8 | Ceramic Capacitors | 100 nF, 0603 | 65 provisionally | ≈ ₹20 | [Supplier](https://robu.in/) |
-| 9 | Bulk Capacitor | 470 µF | 1 | ≈ ₹22 | [Supplier](https://robu.in/) |
-| 10 | RGB Data Resistor | 330 Ω, 0603 | 1 | ≈ ₹1 | [Supplier](https://robu.in/) |
-| 11 | Additional Resistor | Value to be confirmed from schematic | 1 | TBD | TBD |
-| 12 | PCB Stabilizer | 2U | 1 | Included in estimate below | TBD |
-| 13 | PCB Stabilizer | 2.25U | 3 | Included in estimate below | TBD |
-| 14 | PCB Stabilizer | 2.75U | 1 | Included in estimate below | TBD |
-| 15 | Mounting Hardware | M3 screws and standoffs | As required | ≈ ₹200 | TBD |
-| 16 | Custom PCB | 2-layer FR-4, Rookie V1 Alice | 1 | TBD | [PCB quote](https://www.pcbforyou.in/quote/) |
-| 17 | Keyboard Plate | Custom Alice layout | 1 | TBD | TBD |
-| 18 | Keyboard Case | Custom Rookie V1 case | 1 | TBD | TBD |
-| 19 | Keycaps | MX-compatible, Alice layout | 65-key layout | TBD | TBD |
+| 1  | Raspberry Pi Pico | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
+| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) |
+| 3  | Gateron hot-swap sockets | KS-2P02B01-01-a1; verify footprint | 65 | ₹650 | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
+| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 65 | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
+| 5  | Addressable RGB LEDs | SK6812 MINI-E | 65 | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
+| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
+| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
+| 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
+| 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1 if present | TBD | Confirm schematic |
+| 10 | RGB data resistor | 330 ohm; package must match PCB | 1 if present | TBD | Confirm schematic |
+| 11 | Additional resistor | Value/package to be confirmed | 1 if present | TBD | Check schematic |
+| 12 | PCB-mount stabilizer | 2U | 1 provisional | TBD | Confirm layout |
+| 13 | PCB-mount stabilizer | 2.25U | 3 provisional | TBD | Confirm layout |
+| 14 | PCB-mount stabilizer | 2.75U | 1 provisional | TBD | Confirm layout |
+| 15 | Pico header pins or sockets | Only if required by mounting method | As required | TBD | Confirm assembly |
+| 16 | OLED connector/header | 4-pin, only if used | As required | TBD | Confirm assembly |
+| 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
+| 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
+| 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.pcbforyou.in/quote/) |
+| 20 | Custom switch plate | Matches Alice layout and stabilizer cut-outs | 1 | TBD | Add fabrication link |
+| 21 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | TBD | Add Onshape/fabrication link |
+| 22 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
+| 23 | USB cable | Must match the actual Pico connector | 1 if supplied | TBD | Confirm connector |
+| 24 | Gaskets, feet or foam | Only if included in the final case design | As per CAD | TBD | Confirm assembly |
 
-### Estimated Cost
+### Partial Cost Summary
 
-**Estimated subtotal of priced items: approximately ₹5,510 INR**
-
-This is not the final keyboard cost. PCB fabrication, plate, case, keycaps, shipping and the unconfirmed resistor are excluded or not yet priced.
-
-\* RGB LED pricing is provisional. Capacitor quantity and all component values should be checked against the final schematic and PCB before ordering.
-
-[View the complete BOM CSV](./BOM%20V1.csv)
+The currently priced items total approximately **₹2,717.20 before joystick GST**.
+This is not the full keyboard cost. RGB LEDs, remaining electronic parts,
+stabilizers, mounting hardware, PCB fabrication, plate, case, keycaps
+and shipping still need confirmed prices.
+The rotary encoder is not included because it was removed from the design.
 
 
 
