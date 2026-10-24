@@ -84,21 +84,19 @@ Date: 8/07/2026
 After arranging all the components on the PCB, I started working on routing the traces.
 The ratsnest lines showed me which components still needed to be electrically connected. My goal was to route these connections while keeping the PCB neat and avoiding unnecessary overlaps.
 
-## Entry 9 — Routing Keyboard Matrix 
-Date: 08/08/2026
-
+### Routing Keyboard Matrix
 So I first focused on the keyboard matrix connections, routing the traces between the switches and diodes. Since there were many connections it took me some time to get there.
 Now for the Oled display, Joystick, RGB LEDs and Raspberry Pi Pico
 After routing the matrix, I worked on the connections for the Oled display, Joystick, RGB LEDs and **Raspberry Pi Pico. **
 OLED and Joystick were easy but the       RGB Leds took me a lot of time to complete
 
-## Entry 10 — RGB LED Routing 
-Date: 8/09/2026
+## Entry 9 — RGB LED Routing 
+Date: 08/08/2026
 
 The RGB LEDs required additional routing because each LED needed connections for power, ground, data input, and data output.
 I connected the LEDs in sequence so that the RGB data signal could travel from one LED to the next.
 
-#### Power and Ground :-
+### Power and Ground :-
 I paid extra attention to the power connections because the RGB LEDs can draw significantly more current than the other components.
 I also had to think about the different power connections, especially the 5V, 3.3V, and l also kept the size of the power line (5v,3v3) a bit thicker 0.3 or 0.4 cause it prevents the melting of the copper
  If l am right
@@ -107,19 +105,18 @@ And for the GND (Ground Plate) l did not connect it manually thanks to an friend
 <img width="1056" height="447" alt="image" src="https://github.com/user-attachments/assets/4c08cdeb-8cc4-4430-9f74-943f243f5e17" />
 
 
+##  Entry 10 — Routing All Connections To Pico PI + DRC ERRORS
+Date: 8/09-10/2026
+
+Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
+( Joystick and OLED was already done) 
+
 - PCB Layers :-
 - F.cu  (Red)
 - B.cu (Blue)
 - Vias (Dots kinda thing that lets u use both layers)
 This made routing much easier,and thees are the layers l used  
 Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file from folder called  PCB theres a file called PCB Editor downloadit and clear ur doubts
-
-##  Entry 10 — Routing All Connections To  Raspberry Pico PI 
-Date: 8/10-11/2026
-
-Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
-( Joystick and OLED was already done) 
-
 ### DRC Errors for PCB :-
 After completing most of the routing, I ran the Design Rules Checker (DRC) in KiCad to look for problems such as:
 Unconnected connections
@@ -132,14 +129,19 @@ At this point, the PCB was starting to look GREAT 👍🏻
 
 ### Next step: To add its shape
 
-#### SHAPE OF THE PCB :-
+##  Entry 11 — SHAPE OF THE PCB 
+Date: 8/11/2026
+
 Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , l can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig
 And after that it was good to go 
 3D (keycaps , hotswapp , display , Joystick )
 I added there 3d models from GrabCAD so l can get a preety good look how my Keyboard going to look and it also helps me to know  how much height should be the walls (boarders) of the case. 
 <img width="1061" height="474" alt="image" src="https://github.com/user-attachments/assets/87549082-058a-4c85-8c9d-9cad6780b664" />
 <br>
-####  Last look of the PCB
+
+## Entry 12 — Last look of the PCB
+Date: 8/12/2026
+
 <img width="1050" height="480" alt="image" src="https://github.com/user-attachments/assets/faf2e541-6268-4f27-9ddd-df7d07e9a735" />
 ## Okay it's me after many  hours later (AGAIN) :- 
 HOWDY FELAS!, I am here to proudly state that I have have FINISHED my PCB  after working Continuously on it well, HURRAY!
@@ -150,31 +152,37 @@ SO LETS GET GOING ,BYE
 <br>
 ###### *TOTAL HOURS FOR PCB* :  18hr
 
-## Entry 3 — THE CASE
+## Entry 13 — THE CASE
+Date: 8/13/2026
+
+### Figuring out layout
 Well I got to pick a MOUNT first cause there's a lot,
                                                                                                                                        
 <img width="1080" height="896" alt="image" src="https://github.com/user-attachments/assets/38117efe-1d2c-481f-8601-7db5a8cde2fd" />
                                                                                                                                       
-I will go with The GASKET MOUNT cause it helps the switches to sound better while typing ig. What's the points of having an Mechanical Keyboard if u don't have the fell while typing , ANYWAYS, TO THE DESIGNIG PART 
- ### - DESIGNIG THE CASE :-
+I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate in future. What's the points of having an Mechanical Keyboard if u don't have the fell while typing , ANYWAYS, TO THE DESIGNIG PART.
+ 
  For making the case I am using software called Onshape u may be familiar with it cause it's only one I know and also I am following the guide (DOCS) of HACKPAD just the CASE part
 
  I wanted the light's to shine in front of the keyboard and joystick border must be in hexagon 
-  Here's some reference pic from AI I created
+  Here's some reference pic from AI pic I created.
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d2b1ccdd-2159-4422-a214-0280c4b94a30" />
 
 <img width="478" height="703" alt="image" src="https://github.com/user-attachments/assets/f6d5fd0b-18cb-4199-878b-1d4eedd73dc6" />
 
-I can't explain much but I will add a timelapse video
  <br>
- So, I designed the body and I cant add my PCB .step file cause its make my the software too slow. I also added the screw holes and the light basr in fromt wall of the case and a cutout shape where the Pico pi micro-usb goes.
+ 
+ ## Entry 14 - DESIGNIG THE CASE
+ Date: 8/15/2026
+ 
+ So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy still I will try do something about it. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
  <br>
  HERES THE LOOK , still need to do a lot of work tho.
  <br>
  TIME SPENT (1):- 1HR 17MIN
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
-## CALCULATION :-
+# CALCULATION :-
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
 
