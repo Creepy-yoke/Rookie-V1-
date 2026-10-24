@@ -140,7 +140,6 @@ So copy it, modify it, sell it, become a billionaire, i expect nothing in return
 This project uses:
 - KiCad - PCB design and schematic capture
 - Lion Circuits - PCB manufacturing
-- Amazon - Parts order
 - OnShape - CAD case + render
 <hr>
 
