@@ -36,6 +36,7 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
 <br>
 <img width="824" height="565" alt="image" src="https://github.com/user-attachments/assets/d199213e-dd65-445d-975f-5bd75159b55b" />
 <img width="623" height="384" alt="image" src="https://github.com/user-attachments/assets/83f04c98-e525-4b72-b055-d60e63be806a" />
+<br>
   AND TIME TO GET BACK TO KICAD , SEE U 
 
 ## Entry 4 — Wiring UP Everything to each other
@@ -44,10 +45,14 @@ Date: 8/02/2026 <br>
 
 <br>
 Wired up the EC11 encoder (A/B/C for rotation, S1/S2 for the click). Also connected the joystick analog it was preety simple to connect then, Spent a while figuring out OLED options — I wanted A looong screen put apparently 4 pin OLEDs don't come in 256x32, so I had to settle for a 128x32 display,  which gave a me a bit more surface area. here's a LOOK!
+<br>
+<br>
 <img width="769" height="582" alt="image" src="https://github.com/user-attachments/assets/cc9e7f90-6eb1-41f3-a087-e7e7c042cb34" />
+<br>
+<br>
 I still need to connect all the components (some parts like :- key matrix, RGB matrix thingyy and etc.) and almost  forgot add  stabilizer and mounting holes and also need to assign the footprints for the components
 OKAY! the only things I need to do is assign footprints and solve some ERC ERRORS ( Electric Rules Checker ) , 
-
+<br>
 <img width="675" height="437" alt="image" src="https://github.com/user-attachments/assets/939c21b6-cff7-426c-b35e-6d89d0860a57" />
 
 ### UPDATE: I have removed the Rotary Encoder due to less GPIO pins
@@ -86,6 +91,7 @@ Date: 8/06/2026 <br>
 
 ###  Arranging the PCB
 After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
+<br>
 <img width="1073" height="465" alt="image" src="https://github.com/user-attachments/assets/7b749477-4d4e-48d5-9fdc-d83849447b36" />
 
 ## Entry 8 — Routing the PCB 
@@ -97,6 +103,7 @@ The ratsnest lines showed me which components still needed to be electrically co
 
 ### Routing Keyboard Matrix
 So I first focused on the keyboard matrix connections, routing the traces between the switches and diodes. Since there were many connections it took me some time to get there.
+<br>
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cb38780-9edd-4067-a04d-c9b416727884" />
 
 <br>
@@ -116,7 +123,8 @@ I paid extra attention to the power connections because the RGB LEDs can draw si
 I also had to think about the different power connections, especially the 5V, 3.3V, and l also kept the size of the power line (5v,3v3) a bit thicker 0.3 or 0.4 cause it prevents the melting of the copper
  If l am right
 I tried to keep the power routing clean and make sure the traces had suitable paths 
-And for the GND (Ground Plate) l did not connect it manually thanks to an friend l got to know if we add GND plate it will connect all the GND's all by itself, So that saved me some time rather than  doing it manually 
+And for the GND (Ground Plate) l did not connect it manually thanks to an friend l got to know if we add GND plate it will connect all the GND's all by itself, So that saved me some time rather than  doing it manually.
+<br>
 <img width="1056" height="447" alt="image" src="https://github.com/user-attachments/assets/4c08cdeb-8cc4-4430-9f74-943f243f5e17" />
 
 
@@ -141,6 +149,7 @@ Overlapping or conflicting tracks
 
 I then went back and fixed the errors that appeared It was no sweat just some text were intersecting with dome part and some layer like dots that l mistakenly added just delete those 
 At this point, the PCB was starting to look GREAT 👍🏻 
+<br>
 <img width="662" height="524" alt="image" src="https://github.com/user-attachments/assets/9213d0af-47b2-4bdf-aa21-928f8f199b56" />
 ### Next step: To add its shape
 
@@ -152,6 +161,7 @@ Like this was preety much easy to just selected the layer Edge Cut and put lines
 And after that it was good to go 
 3D (keycaps , hotswapp , display , Joystick )
 I added there 3d models from GrabCAD so l can get a preety good look how my Keyboard going to look and it also helps me to know  how much height should be the walls (boarders) of the case. 
+<br>
 <img width="1061" height="474" alt="image" src="https://github.com/user-attachments/assets/87549082-058a-4c85-8c9d-9cad6780b664" />
 <br>
 
@@ -159,7 +169,9 @@ I added there 3d models from GrabCAD so l can get a preety good look how my Keyb
 Date: 8/12/2026 <br>
 ***Time worked: 2 hr***
 
+<br>
 <img width="1050" height="480" alt="image" src="https://github.com/user-attachments/assets/faf2e541-6268-4f27-9ddd-df7d07e9a735" />
+<br>
 ## Okay it's me after many  hours later (AGAIN) :- 
 HOWDY FELAS!, I am here to proudly state that I have have FINISHED my PCB  after working Continuously on it well, HURRAY!
 I am not gonna lie it took a lot lot lot of time bruh (MOST WITH THE GD ERROR) , I was about to quit but I am glad that I Didn't. Overall, everything went extremely well this session, and I’m really happy with how much progress I made. Completing the PCB feels like a big step forward for my keyboard project
@@ -185,6 +197,7 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
 
  I wanted the light's to shine in front of the keyboard and joystick border must be in hexagon 
   Here's some reference pic from AI pic I created.
+  <br>
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/d2b1ccdd-2159-4422-a214-0280c4b94a30" />
 
 <img width="478" height="703" alt="image" src="https://github.com/user-attachments/assets/f6d5fd0b-18cb-4199-878b-1d4eedd73dc6" />
@@ -198,6 +211,7 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy still I will try do something about it. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
  <br>
  HERES THE LOOK , still need to do a lot of work tho.
+ <br>
  <br>
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
