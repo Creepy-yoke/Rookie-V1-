@@ -86,6 +86,8 @@ The ratsnest lines showed me which components still needed to be electrically co
 
 ### Routing Keyboard Matrix
 So I first focused on the keyboard matrix connections, routing the traces between the switches and diodes. Since there were many connections it took me some time to get there.
+<img width="1102" height="883" alt="image" src="https://github.com/user-attachments/assets/31183f5a-1113-4944-9bdb-ae89e1fecccc" />
+<br>
 Now for the Oled display, Joystick, RGB LEDs and Raspberry Pi Pico
 After routing the matrix, I worked on the connections for the Oled display, Joystick, RGB LEDs and **Raspberry Pi Pico. **
 OLED and Joystick were easy but the       RGB Leds took me a lot of time to complete
