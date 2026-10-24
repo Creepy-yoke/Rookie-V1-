@@ -20,7 +20,8 @@ Today I started making my first keyboard schematic in KiCad. First, I added all 
 
 
 
-### Adding the Other Components
+## Entry 3 — Adding the Other Components in Schematic
+Date: 7/32/2026
 
 After the main keyboard matrix was done, I added the extra features I wanted. I added an OLED for displaying information and a joystick that I can use for mouse control. I also added resistors and capacitors for the RGB . I considered adding some other things during the project, but I removed or changed a few ideas to keep the keyboard manageable.                                     
 It's easily subject to change after I add the rotary encoder. I'm not exactly sure how I'm supposed to incorporate the encoder right now. All of the other components are pretty simple it just took me some time to connect other componets see
@@ -32,7 +33,9 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
 <img width="623" height="384" alt="image" src="https://github.com/user-attachments/assets/83f04c98-e525-4b72-b055-d60e63be806a" />
   AND TIME TO GET BACK TO KICAD , SEE U 
 
-Date: 07/32/2026                                                                                                                
+## Entry 3 — Wiring UP Everything to each other
+Date: 07/32/2026    
+<br>
 Wired up the EC11 encoder (A/B/C for rotation, S1/S2 for the click). Also connected the joystick analog it was preety simple to connect then, Spent a while figuring out OLED options — I wanted A looong screen put apparently 4 pin OLEDs don't come in 256x32, so I had to settle for a 128x32 display,  which gave a me a bit more surface area. here's a LOOK!
 <img width="769" height="582" alt="image" src="https://github.com/user-attachments/assets/cc9e7f90-6eb1-41f3-a087-e7e7c042cb34" />
 I still need to connect all the components (some parts like :- key matrix, RGB matrix thingyy and etc.) and almost  forgot add  stabilizer and mounting holes and also need to assign the footprints for the components
