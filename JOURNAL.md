@@ -1,7 +1,8 @@
 # Keyboard Build Journal
 
 ## Entry 1 — Figuring out hardware and layout
-Date: 07/30/2026
+Date: 07/30/2026 <br>
+***Time worked: 2 hr*** 
 
 I started planning out the layout for my keyboard. I really didn't want a  keyboard where your hand are kept TOO close and become sweaty, So I found a layout that have some space between, but at the same time, I wanted to maintain most of the function that I would have on a conventional laptop. So, I settled with a 65% layout, I used the reference picture below. its called the ALICE LAYOUT.
 I also made my  layout in https://www.keyboard-layout-editor.com/                                                                           
@@ -78,7 +79,7 @@ Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC aft
 After spending a lot of time checking connections and making sure every component was placed correctly ,  I made tremendous progress with the Schematic and was able to complete it , everything went extremely well this session. 
 I implemented resistors and capacitors wherever I needed them I was able to complete the entire schematic. I also assigned footprints to all the components. Along the way I learned a lot about how different parts connect together and fixed several small mistakes that were causing errors.
 HERE ARE SOME PIC OF FINAL LOOK :- 
-###### *TOTAL HOURS FOR SCHEMATIC* : 16 hr
+###### *TOTAL HOURS FOR SCHEMATIC * : 16 hr (Entries 2-6)
 <img width="1037" height="366" alt="image" src="https://github.com/user-attachments/assets/7caafe6a-a66c-4d30-a9d9-e0d3e020938f" />
 
 Seeing the schematic finally come together feels really satisfying and everything went extremely well this session. 
@@ -140,7 +141,8 @@ Well this was preety easy , l just need to route the  connections of Keyboard Ma
 - B.cu (Blue)
 - Vias (Dots kinda thing that lets u use both layers)
 This made routing much easier,and thees are the layers l used  
-Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file from folder called  PCB theres a file called PCB Editor downloadit and clear ur doubts
+Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file [HERE](https://github.com/Creepyyoke/RookieV1-/blob/main/Rookie%20V1%20(PCB)/Rookie%20V1.kicad_pcb) downloadit and clear ur doubts.
+<br>
 ### DRC Errors for PCB :-
 After completing most of the routing, I ran the Design Rules Checker (DRC) in KiCad to look for problems such as:
 Unconnected connections
@@ -157,7 +159,7 @@ At this point, the PCB was starting to look GREAT 👍🏻
 Date: 8/11/2026 <br>
 ***Time worked: 2 hr*** 
 
-Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , I can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig. THhehard art here was the angel should be same took me time there.
+Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , I can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig. The hard part here was keeping the angles the same.
 And after that it was good to go 
 3D (keycaps , hotswapp , display , Joystick )
 I added there 3d models from GrabCAD so l can get a preety good look how my Keyboard going to look and it also helps me to know  how much height should be the walls (boarders) of the case. 
@@ -180,13 +182,13 @@ Cant wait to finish it  and look how it turns out, supper dupper excited.
 SO LETS GET GOING ,BYE    
 <br>
 
-###### *TOTAL HOURS FOR PCB* :  18hr
+###### *TOTAL HOURS FOR PCB* :  18hr (Entries 7-12)
 
 ## Entry 13 — THE CASE
 Date: 8/13/2026 <br>
 ***Time worked: 1 hr - 30min***
 
-### Figuring out layout
+### Choosing the mount
 Well I got to pick a MOUNT first cause there's a lot,
                                                                                                                                        
 <img width="1080" height="896" alt="image" src="https://github.com/user-attachments/assets/38117efe-1d2c-481f-8601-7db5a8cde2fd" />
