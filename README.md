@@ -72,18 +72,10 @@ STAY TUNED
 
 
 ## Bill of Materials
-Source: ???
-
-
-## Bill of Materials
-
+Source: ??
+<br>
 The following table lists the main components used in the Rookie V1 custom Alice keyboard. Prices are estimates in INR and may vary by supplier.
 
-## Bill of Materials
-
-The following BOM describes the Rookie V1 custom Alice keyboard.
-Prices are estimates in INR. TBD means the exact part or price
-must be confirmed before ordering.
 
 | S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
 |---:|---|---|---:|---:|---|
