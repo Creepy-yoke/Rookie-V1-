@@ -186,7 +186,7 @@ SO LETS GET GOING ,BYE
 
 ## Entry 13 — THE CASE
 Date: 8/13/2026 <br>
-***Time worked: 1 hr 30min***
+***Time worked: 1 hr 30 min***
 
 ### Choosing the mount
 Well I got to pick a MOUNT first cause there's a lot,
@@ -210,7 +210,7 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  Date: 8/15/2026 <br>
  ***Time worked: 1 hr 17 min***
  
- So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy still I will try do something about it. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
+ So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy so I fixed this by importing the PCB into Onshape as one composite part, which made the file much faster. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
  <br>
  HERES THE LOOK , still need to do a lot of work tho.
  <br>
@@ -222,6 +222,18 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
 
 # CALCULATION :-
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
+<br>
 
+### Bill of Materials
+| S.no | Product Name | Footprint | Quantity | Value | Link |
+|-----|-----|-----|-----|-----|-----|
+| 1   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
+| 2   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
+| 3   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
+| 4   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
+| 5   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
+| 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
+
+[HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
 
  
