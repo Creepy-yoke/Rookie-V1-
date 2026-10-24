@@ -21,7 +21,7 @@ Today I started making my first keyboard schematic in KiCad. First, I added all 
 
 
 ## Entry 3 — Adding the Other Components in Schematic
-Date: 7/32/2026
+Date: 8/01/2026
 
 After the main keyboard matrix was done, I added the extra features I wanted. I added an OLED for displaying information and a joystick that I can use for mouse control. I also added resistors and capacitors for the RGB . I considered adding some other things during the project, but I removed or changed a few ideas to keep the keyboard manageable.                                     
 It's easily subject to change after I add the rotary encoder. I'm not exactly sure how I'm supposed to incorporate the encoder right now. All of the other components are pretty simple it just took me some time to connect other componets see
@@ -34,7 +34,7 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
   AND TIME TO GET BACK TO KICAD , SEE U 
 
 ## Entry 4 — Wiring UP Everything to each other
-Date: 07/32/2026    
+Date: 8/02/2026   
 <br>
 Wired up the EC11 encoder (A/B/C for rotation, S1/S2 for the click). Also connected the joystick analog it was preety simple to connect then, Spent a while figuring out OLED options — I wanted A looong screen put apparently 4 pin OLEDs don't come in 256x32, so I had to settle for a 128x32 display,  which gave a me a bit more surface area. here's a LOOK!
 <img width="769" height="582" alt="image" src="https://github.com/user-attachments/assets/cc9e7f90-6eb1-41f3-a087-e7e7c042cb34" />
@@ -47,7 +47,7 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 <br>
 
 ## Entry 5 — Assigning Footprints
-Date: 07/34/2026
+Date: 8/03-04/2026
 
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
 
@@ -56,40 +56,45 @@ The schematic is mostly finished, I started assigning footprints to the componen
 <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/0e3d8441-f0d7-4a6b-b70d-c9376467eba7" />
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/ed8846e9-3c24-44a4-84c7-ceeffd28b952" />
 
-## Entry 6 — Assigning Footprints
-Date: 07/34-35/2026
+## Entry 6 — FINAL LOOK
+Date: 8/05/2026
 
-# Okay it's me after many  hours later :- 
+### Okay it's me after many  hours later :- 
 Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC after working Continuously on it  , LETS GO! 
 After spending a lot of time checking connections and making sure every component was placed correctly ,  I made tremendous progress with the Schematic and was able to complete it , everything went extremely well this session. 
 I implemented resistors and capacitors wherever I needed them I was able to complete the entire schematic. I also assigned footprints to all the components. Along the way I learned a lot about how different parts connect together and fixed several small mistakes that were causing errors.
 HERE ARE SOME PIC OF FINAL LOOK :- 
-###### *TOTAL HOURS FOR SCHEMATIC* : 15 hr
+###### *TOTAL HOURS FOR SCHEMATIC* : 16 hr
 <img width="1037" height="366" alt="image" src="https://github.com/user-attachments/assets/7caafe6a-a66c-4d30-a9d9-e0d3e020938f" />
 
 Seeing the schematic finally come together feels really satisfying and everything went extremely well this session. 
 
 #### NOW  IT'S READY FOR THE PCB LAYOUT , (BUT FIRS I NEED SOME REST, MY BACK IS PAINING)
 
- ## - Entry 7 — MAKING my PCB
-Date: 07/36/2026
+ ## Entry 7 — MAKING my PCB
+Date: 8/06/2026
 
-##  Arranging the PCB
+###  Arranging the PCB
 After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
 <img width="1073" height="465" alt="image" src="https://github.com/user-attachments/assets/7b749477-4d4e-48d5-9fdc-d83849447b36" />
 
-Date: 07/36/2026
-## Routing the PCB :-
+## Entry 8 — Routing the PCB 
+Date: 8/07/2026
+
 After arranging all the components on the PCB, I started working on routing the traces.
 The ratsnest lines showed me which components still needed to be electrically connected. My goal was to route these connections while keeping the PCB neat and avoiding unnecessary overlaps.
-Date: 07/37/2026
-#### Keyboard Matrix :-
+
+## Entry 9 — Routing Keyboard Matrix 
+Date: 08/08/2026
+
 So I first focused on the keyboard matrix connections, routing the traces between the switches and diodes. Since there were many connections it took me some time to get there.
 Now for the Oled display, Joystick, RGB LEDs and Raspberry Pi Pico
 After routing the matrix, I worked on the connections for the Oled display, Joystick, RGB LEDs and **Raspberry Pi Pico. **
 OLED and Joystick were easy but the       RGB Leds took me a lot of time to complete
-Date: 07/37/2026
-#### RGB LED Routing :-
+
+## Entry 10 — RGB LED Routing 
+Date: 8/09/2026
+
 The RGB LEDs required additional routing because each LED needed connections for power, ground, data input, and data output.
 I connected the LEDs in sequence so that the RGB data signal could travel from one LED to the next.
 
@@ -109,11 +114,13 @@ And for the GND (Ground Plate) l did not connect it manually thanks to an friend
 This made routing much easier,and thees are the layers l used  
 Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file from folder called  PCB theres a file called PCB Editor downloadit and clear ur doubts
 
-##### Routing All Connections To  Raspberry Pico PI :-
+##  Entry 10 — Routing All Connections To  Raspberry Pico PI 
+Date: 8/10-11/2026
+
 Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
 ( Joystick and OLED was already done) 
 
-#### DRC Errors for PCB :-
+### DRC Errors for PCB :-
 After completing most of the routing, I ran the Design Rules Checker (DRC) in KiCad to look for problems such as:
 Unconnected connections
 Clearance violations
@@ -123,7 +130,7 @@ I then went back and fixed the errors that appeared It was no sweat just some te
 At this point, the PCB was starting to look GREAT 👍🏻 
 <img width="662" height="524" alt="image" src="https://github.com/user-attachments/assets/9213d0af-47b2-4bdf-aa21-928f8f199b56" />
 
-#### Next step: To add its shape
+### Next step: To add its shape
 
 #### SHAPE OF THE PCB :-
 Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , l can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig
