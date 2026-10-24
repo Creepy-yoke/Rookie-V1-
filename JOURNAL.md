@@ -217,10 +217,17 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  <br>
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
+ ## Entry 15 - FINAL LOOK of the CASE
+  Date: 8/16/2026 <br>
+ ***Time worked: 1 hr 30 min***
+I have finished the case and ready to submit i have added the PCB to the case and the screw holes postion was not correc(where the screw goes M3). Also the case looks simple i have the plan to stick stickers that I have, you can customize it by yourself if you like .Also the light bar was out of the positoin too so relocated it and i do not need he cutout od micer-usb
+<img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
 
 
+# Entry 16 - CALCULATION 
+ Date: 8/18/2026 <br>
+ ***Time worked: 1 hr***
 
-# CALCULATION :-
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 <br>
 
