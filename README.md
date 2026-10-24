@@ -7,7 +7,6 @@
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Project](https://img.shields.io/badge/Project-Hardware-yellow.svg)
-![Hackatime Badge](https://img.shields.io/badge/Hacktime-10hr-purple)
 
 </div>
 
