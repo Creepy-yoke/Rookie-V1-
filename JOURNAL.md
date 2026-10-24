@@ -33,7 +33,7 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
 <img width="623" height="384" alt="image" src="https://github.com/user-attachments/assets/83f04c98-e525-4b72-b055-d60e63be806a" />
   AND TIME TO GET BACK TO KICAD , SEE U 
 
-## Entry 3 — Wiring UP Everything to each other
+## Entry 4 — Wiring UP Everything to each other
 Date: 07/32/2026    
 <br>
 Wired up the EC11 encoder (A/B/C for rotation, S1/S2 for the click). Also connected the joystick analog it was preety simple to connect then, Spent a while figuring out OLED options — I wanted A looong screen put apparently 4 pin OLEDs don't come in 256x32, so I had to settle for a 128x32 display,  which gave a me a bit more surface area. here's a LOOK!
@@ -44,9 +44,11 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 <img width="675" height="437" alt="image" src="https://github.com/user-attachments/assets/939c21b6-cff7-426c-b35e-6d89d0860a57" />
 
 ### UPDATE: I have removed the Rotary Encoder due to less GPIO pins
+<br>
 
+## Entry 5 — Assigning Footprints
 Date: 07/34/2026
-## Assigning Footprints
+
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
 
 <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/935c620a-a33f-4145-bd1b-302839dcd7b4" />
@@ -54,8 +56,8 @@ The schematic is mostly finished, I started assigning footprints to the componen
 <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/0e3d8441-f0d7-4a6b-b70d-c9376467eba7" />
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/ed8846e9-3c24-44a4-84c7-ceeffd28b952" />
 
-
-
+## Entry 6 — Assigning Footprints
+Date: 07/34-35/2026
 
 # Okay it's me after many  hours later :- 
 Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC after working Continuously on it  , LETS GO! 
@@ -67,10 +69,11 @@ HERE ARE SOME PIC OF FINAL LOOK :-
 
 Seeing the schematic finally come together feels really satisfying and everything went extremely well this session. 
 
-#### NOW  IT'S READY FOR THE PCB LAYOUT  , ( BUT FIRS I NEED SOME REST, MY BACK IS PAINING)
+#### NOW  IT'S READY FOR THE PCB LAYOUT , (BUT FIRS I NEED SOME REST, MY BACK IS PAINING)
 
-## Entry 3 — MAKING my PCB
+ ## - Entry 7 — MAKING my PCB
 Date: 07/36/2026
+
 ##  Arranging the PCB
 After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
 <img width="1073" height="465" alt="image" src="https://github.com/user-attachments/assets/7b749477-4d4e-48d5-9fdc-d83849447b36" />
