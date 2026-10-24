@@ -88,8 +88,7 @@ Source: `production/pcb/bom.csv`
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/LICENSE.md) file for details 
 <br>
-If you have any questions contact me on Slack this is [@MD](https://hackclub.enterprise.slack.com/team/U0BDB5F8FQE).Your request is more than likely to be granted. The MIT part of the license is intended to avoid direct copies of the work to be sold for commercial gain by third parties.
-
+So copy it, modify it, sell it, become a billionaire, i expect nothing in return. But if it breaks, explodes, catches fire, or opens a portal to nether, that’s between you and your hardware. I was never here >~<
 
 ## Credits
 This project uses:
