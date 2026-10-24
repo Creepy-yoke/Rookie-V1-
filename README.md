@@ -59,7 +59,7 @@ Source : [Rookie V1.kicad_pcb](https://github.com/Creepy-yoke/Rookie-V1-/tree/ma
 <img width="1201" height="552" alt="image" src="https://github.com/user-attachments/assets/817ff064-3f32-41cb-8f98-d27ca0399c0c" />
 
 ## CASE on Onshape
-Source : [Rookie V1 (CASE).STEP](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(CASE))
+Source : [Rookie V1 (CASE).step](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(CASE))
 <br>
 <br>
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/d134c56b-84ef-4d43-a8ee-1d3c05b1d169" />
