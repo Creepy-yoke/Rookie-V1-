@@ -72,15 +72,52 @@ STAY TUNED
 
 
 ## Bill of Materials
-Source: `production/pcb/bom.csv`
-| S.no | Product Name | Footprint | Quantity | Value | Link |
-|-----|-----|-----|-----|-----|-----|
-| 1   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
-| 2   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
-| 3   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
-| 4   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
-| 5   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
-| 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
+Source: ???
+
+
+## Bill of Materials
+
+The following table lists the main components used in the Rookie V1 custom Alice keyboard. Prices are estimates in INR and may vary by supplier.
+
+| S.no | Product Name | Footprint / Specification | Quantity | Estimated Value (INR) | Link |
+|---:|---|---|---:|---:|---|
+| 1 | Raspberry Pi Pico | RP2040 | 1 | ₹384 | [Supplier](https://www.thingbits.in/t/brands/raspberry-pi/pico-slash-rp2040) |
+| 2 | Gateron G Pro 3.0 Brown Switches | MX-compatible | 65 | ₹1,330 | [Supplier](https://stackskb.com/) |
+| 3 | Gateron Hot-swap Sockets | KS-2P02B01-01 family; verify exact part | 65 | ₹650 | [Supplier](https://stackskb.com/) |
+| 4 | 1N4148W Diodes | SMD; verify footprint | 65 | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
+| 5 | SK6812 MINI-E RGB LEDs | Addressable RGB | 65 | ≈ ₹2,100* | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
+| 6 | SSD1306 OLED Display | 0.91-inch, 128×32, I²C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
+| 7 | Analog Joystick Module | X/Y axes | 1 | ≈ ₹52 | [Supplier](https://directronics.in/product/joystick-module) |
+| 8 | Ceramic Capacitors | 100 nF, 0603 | 65 provisionally | ≈ ₹20 | [Supplier](https://robu.in/) |
+| 9 | Bulk Capacitor | 470 µF | 1 | ≈ ₹22 | [Supplier](https://robu.in/) |
+| 10 | RGB Data Resistor | 330 Ω, 0603 | 1 | ≈ ₹1 | [Supplier](https://robu.in/) |
+| 11 | Additional Resistor | Value to be confirmed from schematic | 1 | TBD | TBD |
+| 12 | PCB Stabilizer | 2U | 1 | Included in estimate below | TBD |
+| 13 | PCB Stabilizer | 2.25U | 3 | Included in estimate below | TBD |
+| 14 | PCB Stabilizer | 2.75U | 1 | Included in estimate below | TBD |
+| 15 | Mounting Hardware | M3 screws and standoffs | As required | ≈ ₹200 | TBD |
+| 16 | Custom PCB | 2-layer FR-4, Rookie V1 Alice | 1 | TBD | [PCB quote](https://www.pcbforyou.in/quote/) |
+| 17 | Keyboard Plate | Custom Alice layout | 1 | TBD | TBD |
+| 18 | Keyboard Case | Custom Rookie V1 case | 1 | TBD | TBD |
+| 19 | Keycaps | MX-compatible, Alice layout | 65-key layout | TBD | TBD |
+
+### Estimated Cost
+
+**Estimated subtotal of priced items: approximately ₹5,510 INR**
+
+This is not the final keyboard cost. PCB fabrication, plate, case, keycaps, shipping and the unconfirmed resistor are excluded or not yet priced.
+
+\* RGB LED pricing is provisional. Capacitor quantity and all component values should be checked against the final schematic and PCB before ordering.
+
+[View the complete BOM CSV](./BOM%20V1.csv)
+
+
+
+
+
+
+
+
 
 [HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
 
@@ -106,5 +143,4 @@ I learned how to turn a keyboard schematic into a proper PCB and how important i
 gracias!
 <br>
 #### NOTE :-
-If u want step by step PROCESS to make a simple easy Keyboard which include's Everything, SO just follow the  #### KEEB DOCS
-[HERE]( https://keeb.hackclub.com/docs/getting-started/ ) IS THE LINK.
+If u want step by step PROCESS to make a simple easy Keyboard which include's Everything, SO just follow the KEEB DOCS, [HERE](https://keeb.hackclub.com/docs/getting-started/) IS THE LINK.
