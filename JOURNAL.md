@@ -79,7 +79,7 @@ Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC aft
 After spending a lot of time checking connections and making sure every component was placed correctly ,  I made tremendous progress with the Schematic and was able to complete it , everything went extremely well this session. 
 I implemented resistors and capacitors wherever I needed them I was able to complete the entire schematic. I also assigned footprints to all the components. Along the way I learned a lot about how different parts connect together and fixed several small mistakes that were causing errors.
 HERE ARE SOME PIC OF FINAL LOOK :- 
-###### *TOTAL HOURS FOR SCHEMATIC * : 16 hr (Entries 2-6)
+###### *TOTAL HOURS FOR SCHEMATIC* : 16 hr (Entries 2-6)
 <img width="1037" height="366" alt="image" src="https://github.com/user-attachments/assets/7caafe6a-a66c-4d30-a9d9-e0d3e020938f" />
 
 Seeing the schematic finally come together feels really satisfying and everything went extremely well this session. 
@@ -141,7 +141,7 @@ Well this was preety easy , l just need to route the  connections of Keyboard Ma
 - B.cu (Blue)
 - Vias (Dots kinda thing that lets u use both layers)
 This made routing much easier,and thees are the layers l used  
-Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file [HERE](https://github.com/Creepyyoke/RookieV1-/blob/main/Rookie%20V1%20(PCB)/Rookie%20V1.kicad_pcb) downloadit and clear ur doubts.
+Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file [HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/Rookie%20V1%20(PCB)/Rookie%20V1.kicad_pcb) downloadit and clear ur doubts.
 <br>
 ### DRC Errors for PCB :-
 After completing most of the routing, I ran the Design Rules Checker (DRC) in KiCad to look for problems such as:
@@ -186,7 +186,7 @@ SO LETS GET GOING ,BYE
 
 ## Entry 13 — THE CASE
 Date: 8/13/2026 <br>
-***Time worked: 1 hr - 30min***
+***Time worked: 1 hr 30min***
 
 ### Choosing the mount
 Well I got to pick a MOUNT first cause there's a lot,
@@ -208,7 +208,7 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  
  ## Entry 14 - DESIGNIG THE CASE
  Date: 8/15/2026 <br>
- ***Time worked: 1 hr - 17 min***
+ ***Time worked: 1 hr 17 min***
  
  So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy still I will try do something about it. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
  <br>
