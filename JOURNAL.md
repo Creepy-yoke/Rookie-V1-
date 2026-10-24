@@ -153,6 +153,7 @@ Well , l am relieved and the last step is just to make an CASE for it
 Cant wait to finish it  and look how it turns out, supper dupper excited.      
 SO LETS GET GOING ,BYE    
 <br>
+
 ###### *TOTAL HOURS FOR PCB* :  18hr
 
 ## Entry 13 — THE CASE
