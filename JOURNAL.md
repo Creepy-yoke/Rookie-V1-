@@ -230,21 +230,49 @@ I have finished the case and ready to submit i have added the PCB to the case an
 
 
 # Entry 16 - CALCULATION 
- Date: 8/18/2026 <br>
- ***Time worked: 1 hr***
+ Date: 10/25/2026 <br>
+ ***Time worked: 2 hr***
 
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 <br>
 
 ### Bill of Materials
-| S.no | Product Name | Footprint | Quantity | Value | Link |
-|-----|-----|-----|-----|-----|-----|
-| 1   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
-| 2   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
-| 3   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
-| 4   | Gateron G Pro 3.0     | MX            | 65 | ₹1225 | [Link](https://example.com) |
-| 5   | Kailh Hot-swap Socket | KS-2P02B01-01 | 65 | ₹650  | [Link](https://example.com) |
-| 6   | SK6812 MINI-E         | SMD           | 65 | ₹559  | [Link](https://example.com) |
+| S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
+|---:|---|---|---:|---:|---|
+| 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
+| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) |
+| 3  | Gateron hot-swap sockets | KS-2P02B01-01-a1; verify footprint | 65 | ₹650 | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
+| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 65 | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 65 | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
+| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
+| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
+| 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
+| 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1  | TBD | Confirm schematic |
+| 10 | RGB data resistor | 330 ohm; package must match PCB | 1  | TBD | Confirm schematic |
+| 11 | Additional resistor | Value/package to be confirmed | 1  | TBD | Check schematic |
+| 12 | PCB-mount stabilizer | 2U | 1 provisional | TBD | Confirm layout |
+| 13 | PCB-mount stabilizer | 2.25U | 3 provisional | TBD | Confirm layout |
+| 14 | PCB-mount stabilizer | 2.75U | 1 provisional | TBD | Confirm layout |
+| 15 | Pico header pins or sockets | Only if required by mounting method | As required | TBD | Confirm assembly |
+| 16 | OLED connector/header | 4-pin, only if used | As required | TBD | Confirm assembly |
+| 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
+| 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
+| 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.pcbforyou.in/quote/) |
+| 20 | Custom switch plate | Matches Alice layout and stabilizer cut-outs | 1 | TBD | Add fabrication link |
+| 21 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | TBD | Add Onshape/fabrication link |
+| 22 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
+| 23 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
+
+
+### Partial Cost Summary
+
+The currently priced items total approximately **₹2,717.20 before joystick GST**.
+This is not the full keyboard cost. RGB LEDs, remaining electronic parts,
+stabilizers, mounting hardware, PCB fabrication, plate, case, keycaps
+and shipping still need confirmed prices.
+The rotary encoder is not included because it was removed from the design.
+
+
 
 [HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
 
