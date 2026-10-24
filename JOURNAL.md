@@ -56,7 +56,7 @@ The schematic is mostly finished, I started assigning footprints to the componen
 <img width="360" height="400" alt="image" src="https://github.com/user-attachments/assets/0e3d8441-f0d7-4a6b-b70d-c9376467eba7" />
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/ed8846e9-3c24-44a4-84c7-ceeffd28b952" />
 
-## Entry 6 — FINAL LOOK
+## Entry 6 — FINAL LOOK OF SCHEMATIC
 Date: 8/05/2026
 
 ### Okay it's me after many  hours later :- 
@@ -183,12 +183,14 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  <br>
  HERES THE LOOK , still need to do a lot of work tho.
  <br>
- TIME SPENT (1):- 1HR 17MIN
+###### *TOTAL HOURS FOR LAYOUT* :  1hr 17min
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
+
+
+
 
 # CALCULATION :-
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
 
 
-Ok I finished my freaking bom I hope the reviewers are finally satisfied. I just fixed everything the reviewer told me to fix it.
  
