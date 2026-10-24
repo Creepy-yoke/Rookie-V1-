@@ -220,9 +220,11 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  ## Entry 15 - FINAL LOOK of the CASE
   Date: 10/24/2026 <br>
  ***Time worked: 1 hr 30 min***
-I have finished the case and ready to submit i have added the PCB to the case and the screw holes position was not correct (where the screw goes M3). Also the case looks simple i have the plan to stick stickers that I have, you can customize it by yourself if you like . Also the light bar was out of the positoin too so relocated it and i do not need he cutout for micro-usb. <br>
-[HERE](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8) is my onshape linkyoucan check it out.
+I have finished the case and ready to submit i have added the PCB to the case and the screw holes position was not correct (where the screw goes M3). Also the case looks simple i have the plan to stick stickers that I have, you can customize it by yourself if you like . Also the light bar was out of the positoin too so relocated it and i do not need the cutout for micro-usb so I have removed it.
 
+<br>
+
+[HERE](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8) is my Onshape link, you can check it out.
 
 <br>
 
