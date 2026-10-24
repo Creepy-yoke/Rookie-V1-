@@ -87,17 +87,17 @@ must be confirmed before ordering.
 
 | S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
 |---:|---|---|---:|---:|---|
-| 1  | Raspberry Pi Pico | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
+| 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
 | 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) |
 | 3  | Gateron hot-swap sockets | KS-2P02B01-01-a1; verify footprint | 65 | ₹650 | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
 | 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 65 | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
-| 5  | Addressable RGB LEDs | SK6812 MINI-E | 65 | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 65 | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
 | 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
 | 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
 | 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
-| 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1 if present | TBD | Confirm schematic |
-| 10 | RGB data resistor | 330 ohm; package must match PCB | 1 if present | TBD | Confirm schematic |
-| 11 | Additional resistor | Value/package to be confirmed | 1 if present | TBD | Check schematic |
+| 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1  | TBD | Confirm schematic |
+| 10 | RGB data resistor | 330 ohm; package must match PCB | 1  | TBD | Confirm schematic |
+| 11 | Additional resistor | Value/package to be confirmed | 1  | TBD | Check schematic |
 | 12 | PCB-mount stabilizer | 2U | 1 provisional | TBD | Confirm layout |
 | 13 | PCB-mount stabilizer | 2.25U | 3 provisional | TBD | Confirm layout |
 | 14 | PCB-mount stabilizer | 2.75U | 1 provisional | TBD | Confirm layout |
@@ -109,8 +109,8 @@ must be confirmed before ordering.
 | 20 | Custom switch plate | Matches Alice layout and stabilizer cut-outs | 1 | TBD | Add fabrication link |
 | 21 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | TBD | Add Onshape/fabrication link |
 | 22 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
-| 23 | USB cable | Must match the actual Pico connector | 1 if supplied | TBD | Confirm connector |
-| 24 | Gaskets, feet or foam | Only if included in the final case design | As per CAD | TBD | Confirm assembly |
+| 23 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
+
 
 ### Partial Cost Summary
 
