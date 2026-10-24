@@ -207,7 +207,7 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  <br>
  
  ## Entry 14 - DESIGNIG THE CASE
- Date: 8/15/2026 <br>
+ Date: 10/18/2026 <br>
  ***Time worked: 1 hr 17 min***
  
  So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy so I fixed this by importing the PCB into Onshape as one composite part, which made the file much faster. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
@@ -218,9 +218,11 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
  ## Entry 15 - FINAL LOOK of the CASE
-  Date: 8/16/2026 <br>
+  Date: 10/24/2026 <br>
  ***Time worked: 1 hr 30 min***
-I have finished the case and ready to submit i have added the PCB to the case and the screw holes postion was not correc(where the screw goes M3). Also the case looks simple i have the plan to stick stickers that I have, you can customize it by yourself if you like .Also the light bar was out of the positoin too so relocated it and i do not need he cutout od micer-usb
+I have finished the case and ready to submit i have added the PCB to the case and the screw holes position was not correct (where the screw goes M3). Also the case looks simple i have the plan to stick stickers that I have, you can customize it by yourself if you like . Also the light bar was out of the positoin too so relocated it and i do not need he cutout for micro-usb. <br>
+[HERE](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8) is my onshape linkyoucan check it out.
+<br>
 <img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
 
 
