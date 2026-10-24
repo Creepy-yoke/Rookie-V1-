@@ -13,6 +13,7 @@ HERE'S THE KEYBORAD [RAW DATA](https://github.com/Creepy-yoke/Rookie-V1-/blob/ma
                                                                                                                 
 ## Entry 2 — MAKING my SCHEMATIC
 Date: 7/31/2026
+Time worked: 4 hr 
 
 Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool. I started with the matrix and made a lot of nice progress with tracing and connecting the other components. I also fixed some wiring and checked that everything was connected properly.     
 <img width="1257" height="604" alt="MATRIX SCHEMTIC SWITCHES" src="https://github.com/user-attachments/assets/3d787b9c-45da-429b-a8d7-0bd7fff881c3" />
@@ -22,6 +23,7 @@ Today I started making my first keyboard schematic in KiCad. First, I added all 
 
 ## Entry 3 — Adding the Other Components in Schematic
 Date: 8/01/2026
+Time worked: 3 hr 
 
 After the main keyboard matrix was done, I added the extra features I wanted. I added an OLED for displaying information and a joystick that I can use for mouse control. I also added resistors and capacitors for the RGB . I considered adding some other things during the project, but I removed or changed a few ideas to keep the keyboard manageable.                                     
 It's easily subject to change after I add the rotary encoder. I'm not exactly sure how I'm supposed to incorporate the encoder right now. All of the other components are pretty simple it just took me some time to connect other componets see
@@ -35,6 +37,8 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
 
 ## Entry 4 — Wiring UP Everything to each other
 Date: 8/02/2026   
+Time worked: 4 hr 
+
 <br>
 Wired up the EC11 encoder (A/B/C for rotation, S1/S2 for the click). Also connected the joystick analog it was preety simple to connect then, Spent a while figuring out OLED options — I wanted A looong screen put apparently 4 pin OLEDs don't come in 256x32, so I had to settle for a 128x32 display,  which gave a me a bit more surface area. here's a LOOK!
 <img width="769" height="582" alt="image" src="https://github.com/user-attachments/assets/cc9e7f90-6eb1-41f3-a087-e7e7c042cb34" />
@@ -48,6 +52,7 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 
 ## Entry 5 — Assigning Footprints
 Date: 8/03-04/2026
+Time worked: 3 hr 
 
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
 
@@ -58,6 +63,7 @@ The schematic is mostly finished, I started assigning footprints to the componen
 
 ## Entry 6 — FINAL LOOK OF SCHEMATIC
 Date: 8/05/2026
+Time worked: 2 hr 
 
 ### Okay it's me after many  hours later :- 
 Wasup people !  I am  glad to announce that I have FINISHED my PCB SCHEMATIC after working Continuously on it  , LETS GO! 
@@ -73,6 +79,7 @@ Seeing the schematic finally come together feels really satisfying and everythin
 
  ## Entry 7 — MAKING my PCB
 Date: 8/06/2026
+Time worked: 3 hr 
 
 ###  Arranging the PCB
 After assigning the footprints, I moved everything from the schematic into the PCB Editor. At first there were components everywhere with ratsnest lines connecting each other it was very confusing at first when I started arranging the components neatly on the PCB manually according to my Alice layout. So, first I placed the switches according to my Alice layout  because they were the most important parts. After that I arranged the OLED, Joystick, Micro controller ( Raspberry Pi Pico ) and the smaller components around them (stabilizer, mounting holes).
@@ -80,6 +87,7 @@ After assigning the footprints, I moved everything from the schematic into the P
 
 ## Entry 8 — Routing the PCB 
 Date: 8/07/2026
+Time worked: 4 hr 
 
 After arranging all the components on the PCB, I started working on routing the traces.
 The ratsnest lines showed me which components still needed to be electrically connected. My goal was to route these connections while keeping the PCB neat and avoiding unnecessary overlaps.
@@ -95,6 +103,7 @@ OLED and Joystick were easy but the       RGB Leds took me a lot of time to comp
 
 ## Entry 9 — RGB LED Routing 
 Date: 08/08/2026
+Time worked: 3 hr 
 
 The RGB LEDs required additional routing because each LED needed connections for power, ground, data input, and data output.
 I connected the LEDs in sequence so that the RGB data signal could travel from one LED to the next.
@@ -110,6 +119,7 @@ And for the GND (Ground Plate) l did not connect it manually thanks to an friend
 
 ##  Entry 10 — Routing All Connections To Pico PI + DRC ERRORS
 Date: 8/09-10/2026
+Time worked: 4 hr 
 
 Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
 ( Joystick and OLED was already done) 
@@ -129,13 +139,13 @@ Overlapping or conflicting tracks
 I then went back and fixed the errors that appeared It was no sweat just some text were intersecting with dome part and some layer like dots that l mistakenly added just delete those 
 At this point, the PCB was starting to look GREAT 👍🏻 
 <img width="662" height="524" alt="image" src="https://github.com/user-attachments/assets/9213d0af-47b2-4bdf-aa21-928f8f199b56" />
-
 ### Next step: To add its shape
 
 ##  Entry 11 — SHAPE OF THE PCB 
 Date: 8/11/2026
+Time worked: 2 hr 
 
-Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , l can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig
+Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , I can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig. THhehard art here was the angel should be same took me time there.
 And after that it was good to go 
 3D (keycaps , hotswapp , display , Joystick )
 I added there 3d models from GrabCAD so l can get a preety good look how my Keyboard going to look and it also helps me to know  how much height should be the walls (boarders) of the case. 
@@ -144,6 +154,7 @@ I added there 3d models from GrabCAD so l can get a preety good look how my Keyb
 
 ## Entry 12 — Last look of the PCB
 Date: 8/12/2026
+Time worked: 2 hr 
 
 <img width="1050" height="480" alt="image" src="https://github.com/user-attachments/assets/faf2e541-6268-4f27-9ddd-df7d07e9a735" />
 ## Okay it's me after many  hours later (AGAIN) :- 
@@ -158,6 +169,7 @@ SO LETS GET GOING ,BYE
 
 ## Entry 13 — THE CASE
 Date: 8/13/2026
+Time worked: 1 hr - 30min
 
 ### Figuring out layout
 Well I got to pick a MOUNT first cause there's a lot,
@@ -178,12 +190,12 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  
  ## Entry 14 - DESIGNIG THE CASE
  Date: 8/15/2026
+ Time worked: 1 hr - 17 min
  
  So, I designed the body and I cant add my PCB .step file cause its make my the software too slow and laggy still I will try do something about it. I also added the screw holes and the light bar in front wall of the case and a cutout shape where the Pico pi micro-usb goes.
  <br>
  HERES THE LOOK , still need to do a lot of work tho.
  <br>
-###### *TOTAL HOURS FOR LAYOUT* :  1hr 17min
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/eda7594b-164d-456b-860e-aad9e4cb618b" />
 
 
