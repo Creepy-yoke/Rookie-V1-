@@ -142,7 +142,10 @@ Well this was preety easy , l just need to route the  connections of Keyboard Ma
 - Vias (Dots kinda thing that lets u use both layers)
 This made routing much easier,and thees are the layers l used  
 Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file [HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/Rookie%20V1%20(PCB)/Rookie%20V1.kicad_pcb) downloadit and clear ur doubts.
+
 <br>
+
+
 ### DRC Errors for PCB :-
 After completing most of the routing, I ran the Design Rules Checker (DRC) in KiCad to look for problems such as:
 Unconnected connections
@@ -173,8 +176,11 @@ Date: 8/12/2026 <br>
 
 <br>
 <img width="1050" height="480" alt="image" src="https://github.com/user-attachments/assets/faf2e541-6268-4f27-9ddd-df7d07e9a735" />
-<br>
-## Okay it's me after many  hours later (AGAIN) :- 
+
+<br> 
+
+
+### Okay it's me after many  hours later (AGAIN) :- 
 HOWDY FELAS!, I am here to proudly state that I have have FINISHED my PCB  after working Continuously on it well, HURRAY!
 I am not gonna lie it took a lot lot lot of time bruh (MOST WITH THE GD ERROR) , I was about to quit but I am glad that I Didn't. Overall, everything went extremely well this session, and I’m really happy with how much progress I made. Completing the PCB feels like a big step forward for my keyboard project
 Well , l am relieved and the last step is just to make an CASE for it 
@@ -226,10 +232,12 @@ I have finished the case and ready to submit i have added the PCB to the case an
 <br>
 
 [HERE](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8) is my Onshape link, you can check it out.
-
 <br>
 
+###### *TOTAL HOURS ON CASE* :  2 hr 47 in
+
 <img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
+
 
 
 # Entry 16 - CALCULATION 
@@ -263,7 +271,7 @@ Just finished calculating how much this would cost, with the BOM and everything.
 | 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
 | 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
 | 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
-| 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | I got a 3d printer | NO NEED |
+| 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | ₹0 | printed at home |
 | 21 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
 | 22 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
 
