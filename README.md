@@ -40,7 +40,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 - Per-key RGB - 65 [SK6812 MINI-E](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) 
 - [OLED Display](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/)
 - [Analog joystick](https://www.adafruit.com/product/512) 
-- PCB-mounted stabilizers — for your larger keys.
+- PCB-mounted stabilizers — for my larger keys.
 - M3 mounting hardware — for mounting the PCB/case.
 - Custom Case for the keyboard 
 - Custom PCB — designed specifically for my Alice layout.
@@ -70,7 +70,7 @@ Source : [Rookie V1 (CASE).step](https://github.com/Creepy-yoke/Rookie-V1-/tree/
 
 
 ## Build of the Board
-UPCOMIMG........................
+Coming soon, after I print and assemble it.
 STAY TUNED
 <br>
 <br>
@@ -102,7 +102,7 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 16 | OLED connector/header | 4-pin, only if used | As required | TBD | Confirm assembly |
 | 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
 | 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
-| 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.pcbforyou.in/quote/) |
+| 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote]([https://www.pcbforyou.in/quote/](https://www.lioncircuits.com/)) |
 | 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | I got a 3d printer | NO NEED |
 | 21 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
 | 22 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
