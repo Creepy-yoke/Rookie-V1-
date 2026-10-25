@@ -259,7 +259,7 @@ Just finished calculating how much this would cost, with the BOM and everything.
 | 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 65 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
 | 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 65 used | TBD | [Supplier](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) |
 | 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/) |
-| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
+| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://www.adafruit.com/product/512) |
 | 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
 | 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1  | TBD | Confirm schematic |
 | 10 | RGB data resistor | 330 ohm; package must match PCB | 1  | TBD | Confirm schematic |
