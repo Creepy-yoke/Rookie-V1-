@@ -87,8 +87,8 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
 | 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) |
 | 3  | Gateron hot-swap sockets | KS-2P02B01-01-a1; verify footprint | 65 | ₹650 | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
-| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 65 | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
-| 5  | SK6812 MINI-E | Addressable RGB LEDs | 65 | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
+| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 65 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 65 used | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
 | 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
 | 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
 | 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
@@ -103,15 +103,14 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
 | 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
 | 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.pcbforyou.in/quote/) |
-| 20 | Custom switch plate | Matches Alice layout and stabilizer cut-outs | 1 | TBD | Add fabrication link |
-| 21 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | TBD | Add Onshape/fabrication link |
-| 22 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
-| 23 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
+| 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | I got a 3d printer | NO NEED |
+| 21 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
+| 22 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
 
 
 ### Partial Cost Summary
 
-The currently priced items total approximately **₹2,717.20 before joystick GST**.
+The currently priced items total approximately **₹2,715.20 before joystick GST**.
 This is not the full keyboard cost. RGB LEDs, remaining electronic parts,
 stabilizers, mounting hardware, PCB fabrication, plate, case, keycaps
 and shipping still need confirmed prices.
