@@ -235,7 +235,7 @@ I have finished the case and ready to submit i have added the PCB to the case an
 [HERE](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8) is my Onshape link, you can check it out.
 <br>
 
-###### *TOTAL HOURS ON CASE* :  4 hr 17 in
+###### *TOTAL HOURS ON CASE* :  4 hr 17 min (Entries 13-15)
 
 <img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
 
