@@ -254,11 +254,11 @@ Just finished calculating how much this would cost, with the BOM and everything.
 | S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
 |---:|---|---|---:|---:|---|
 | 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
-| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://stackskb.com/store/gateron-g-pro-3-0-brown-ks-9-tactile-switch-pack-of-10/) |
+| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
 | 3  | Gateron hot-swap sockets | KS-2P02B01-01-a1; verify footprint | 65 | ₹650 | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
 | 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 65 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
-| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 65 used | TBD | [Supplier](https://shiroganelab.com/products/keyball-rgb-led-sk6812mini-e) |
-| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://www.robogears.in/shop/controllers-systems-displays-display-modules-60/39712-0-91-i2c-oled-display-module-128x32-2605) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 65 used | TBD | [Supplier](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) |
+| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/) |
 | 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
 | 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
 | 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1  | TBD | Confirm schematic |
@@ -275,6 +275,7 @@ Just finished calculating how much this would cost, with the BOM and everything.
 | 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | ₹0 | printed at home |
 | 21 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
 | 22 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
+
 
 
 ### Partial Cost Summary
