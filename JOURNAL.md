@@ -238,7 +238,7 @@ I have finished the case and ready to submit i have added the PCB to the case an
 <img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
 
 # Entry 16 - CALCULATION 
- Date: 10/25/2026 
+ Date: 10/25/2026 <br>
  ***Time worked: 2 hr***
 
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
