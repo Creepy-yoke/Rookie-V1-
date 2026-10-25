@@ -237,12 +237,16 @@ I have finished the case and ready to submit i have added the PCB to the case an
 
 <img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
 
+
+
 # Entry 16 - CALCULATION 
  Date: 10/25/2026 <br>
  ***Time worked: 2 hr***
 
 So , I first made a tables and then listed out what components do i need for my keyboard and added to the excel sheet, I still need to confirm few things like prices and chek before I submit it.
+
 <br>
+
  <img width="1233" height="671" alt="image" src="https://github.com/user-attachments/assets/4befad0b-5cef-4099-a1f8-91f02f32d168" />
 
 <br>
