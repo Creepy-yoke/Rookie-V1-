@@ -242,10 +242,11 @@ I have finished the case and ready to submit i have added the PCB to the case an
 
 
 # Entry 16 - CALCULATION 
- Date: 10/25/2026 <br>
+ Date: 10/23/2026 <br>
  ***Time worked: 2 hr***
 
 Just finished calculating how much this would cost, with the BOM and everything. Here are the results:
+
 <br>
 
 ### Bill of Materials
