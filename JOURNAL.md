@@ -227,6 +227,7 @@ I will go with The PLATELESS MOUNT cause I want to see my PCB, I'll add a plate 
  ## Entry 15 - FINAL LOOK of the CASE
   Date: 10/24/2026 <br>
  ***Time worked: 1 hr 30 min***
+ 
 I have finished the case and ready to submit i have added the PCB to the case and the screw holes position was not correct (where the screw goes M3). Also the case looks simple i have the plan to stick stickers that I have, you can customize it by yourself if you like . Also the light bar was out of the positoin too so relocated it and i do not need the cutout for micro-usb so I have removed it.
 
 <br>
@@ -234,7 +235,7 @@ I have finished the case and ready to submit i have added the PCB to the case an
 [HERE](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8) is my Onshape link, you can check it out.
 <br>
 
-###### *TOTAL HOURS ON CASE* :  2 hr 47 in
+###### *TOTAL HOURS ON CASE* :  4 hr 17 in
 
 <img width="1320" height="754" alt="image" src="https://github.com/user-attachments/assets/98f4cb56-550c-4ac0-98d6-55091da3737f" />
 
@@ -278,7 +279,7 @@ Just finished calculating how much this would cost, with the BOM and everything.
 
 ### Partial Cost Summary
 
-The currently priced items total approximately **₹2,717.20 before joystick GST**.
+The currently priced items total approximately **₹2,715.20 before joystick GST**.
 This is not the full keyboard cost. RGB LEDs, remaining electronic parts,
 stabilizers, mounting hardware, PCB fabrication, plate, case, keycaps
 and shipping still need confirmed prices.
