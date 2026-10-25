@@ -250,6 +250,8 @@ So , I first made a tables and then listed out what components do i need for my 
  <img width="1233" height="671" alt="image" src="https://github.com/user-attachments/assets/4befad0b-5cef-4099-a1f8-91f02f32d168" />
 
 <br>
+
+
 Ok, just finished calculating how much this would cost, with the BOM and everything, everything is good to go, finally completed the whole thing, Here are the results :- 
 
 <br>
