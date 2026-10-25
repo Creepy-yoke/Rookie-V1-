@@ -103,7 +103,7 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
 | 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
 | 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
-| 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | I got a 3d printer | NO NEED |
+| 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | ₹0 | printed at home |
 | 21 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
 | 22 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
 
