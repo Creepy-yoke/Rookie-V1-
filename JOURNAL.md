@@ -239,11 +239,61 @@ I have finished the case and ready to submit i have added the PCB to the case an
 
 
 
-# Entry 16 - CALCULATION 
- Date: 10/25/2026 <br>
+ ## Entry 16 - Planning the FIRMWARE
+ Date: 10/26/2026 <br>
+ ***Time worked: 40 min***
+
+<br>
+
+<img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/d7c10dde-fdc1-4735-bf20-65308e544450" />
+
+<br>
+ So, I have watched many videos and did some research on the firmware, so I decided I was going with the KMK firmware, which is the simplest. I know the steps as soon as I get my components (parts). Really quickly I am going to touch on what is KMK and why am I using it.
+ <br>
+“KMK is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in [CircuitPython](https://github.com/adafruit/circuitpython).”
+
+Here is a link to their [GitHub](https://github.com/KMKfw/kmk_firmware) with more information.
+I am using it because I find it much easier to use that QMK, the standard for most keyboards. It can all be done in plain text on any computer and is in Python.
+I’m making this instructable and the because I want more eyes on this project because I think its great, and I’m not good enough at python to help build software so I hope someone who does this can help with this project.
+
+
+
+ ## Entry 16 - FIRMWARE STEPS (After I get my parts) :
+ Date: 10/27/2026 <br>
+ ***Time worked: 40 min***
+
+These are the steps that I will be following in the future after I get my components (parts). There are only 2 steps that I need to do before writing the firmware code. So I will be writing the code before getting my parts so that when my parts are delivered to me, I will just copy the file that contains the code for my keyboard into the Pico.
+
+- STEP 1 - So first I need to install Circuit Python on the Pico; for this, I just need to download the CircuitPython UF2 from [Adafruit's Website](https://circuitpython.org/downloads). Now I need to plug my Pico into my computer/laptop, and it will show as an external storage device; then we just need to drag the UF2 file that we just downloaded into the Pico. It should eject itself and install CircuitPython and show backup. AND just like that bada bing bada boom Circui tPython is installed on my Pico. 
+
+<br>
+
+- STEP 2 - OK, now I need to run the firmware on this bad boy (Pico). So I need to head over to [GITHUB](https://github.com/KMKfw/kmk_firmware) and download the latest version of KMK firmware as a zip file. After downloading the file, Ectract it/Unzip it. From that unzipped KMK file, we only need 2 things which is KMK folder and the boot.pi . I will be copying those two from the folder and pasting them into the Pico (After I get my parts)(after ).
+
+<br>
+
+<img width="496" height="397" alt="Screenshot 2026-10-30 033558" src="https://github.com/user-attachments/assets/7fa784a6-0bf0-4b4f-bb51-6d65a4f8b68d" />
+
+
+<br>
+
+SO, that was the step I need to before writing or pasting the firmware code into the Pico. the only thing which is left to write the code.
+
+
+
+
+
+
+
+
+
+
+
+# Entry ? - CALCULATION 
+ Date: 00/00/2026 <br>
  ***Time worked: 2 hr***
 
-So , I first made a tables and then listed out what components do i need for my keyboard and added to the excel sheet, I still need to confirm few things like prices and chek before I submit it.
+So, I first made a table and then listed out what components I need for my keyboard and added them to the Excel sheet. I still need to confirm a few things like prices and check before I submit it.
 
 <br>
 
@@ -252,7 +302,7 @@ So , I first made a tables and then listed out what components do i need for my 
 <br>
 
 
-Ok, just finished calculating how much this would cost, with the BOM and everything, everything is good to go, finally completed the whole thing, Here are the results :- 
+Ok, just finished calculating how much this would cost, with the BOM and everything. Everything is good to go; finally completed the whole thing. Here are the results: 
 
 <br>
 
