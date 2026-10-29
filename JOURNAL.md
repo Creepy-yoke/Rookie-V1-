@@ -258,17 +258,17 @@ I’m making this instructable and the because I want more eyes on this project 
 
 
 
- ## Entry 16 - FIRMWARE STEPS (After I get my parts) :
+ ## Entry 17 - FIRMWARE STEPS (After I get my parts) :
  Date: 10/27/2026 <br>
- ***Time worked: 1 hr 20 min***
+ ***Time worked: 50 min***
 
 These are the steps that I will be following in the future after I get my components (parts). There are only 2 steps that I need to do before writing the firmware code. So I will be writing the code before getting my parts so that when my parts are delivered to me, I will just copy the file that contains the code for my keyboard into the Pico.
 
-- STEP 1 - So first I need to install Circuit Python on the Pico; for this, I just need to download the CircuitPython UF2 from [Adafruit's Website](https://circuitpython.org/downloads). Now I need to plug my Pico into my computer/laptop, and it will show as an external storage device; then we just need to drag the UF2 file that we just downloaded into the Pico. It should eject itself and install CircuitPython and show backup. AND just like that bada bing bada boom Circui tPython is installed on my Pico. 
+- STEP 1 - So first I need to install Circuit Python on the Pico; for this, I just need to download the CircuitPython UF2 from [Adafruit's Website](https://circuitpython.org/downloads). Now I need to plug my Pico into my computer/laptop, and it will show as an external storage device; then we just need to drag the UF2 file that we just downloaded into the Pico. It should eject itself and install CircuitPython and show backup. AND just like that, bada bing bada boom Circui tPython is installed on my Pico. 
 
 <br>
 
-- STEP 2 - OK, now I need to run the firmware on this bad boy (Pico). So I need to head over to [GITHUB](https://github.com/KMKfw/kmk_firmware) and download the latest version of KMK firmware as a zip file. After downloading the file, Ectract it/Unzip it. From that unzipped KMK file, we only need 2 things which is KMK folder and the boot.pi . I will be copying those two from the folder and pasting them into the Pico (After I get my parts)(after ).
+- STEP 2 - OK, now I need to run the firmware on this bad boy (Pico). So I need to head over to [GITHUB](https://github.com/KMKfw/kmk_firmware) and download the latest version of KMK firmware as a zip file. After downloading the file, Ectract it/Unzip it. From that unzipped KMK file, we only need 2 things, which is KMK folder and the boot.pi . I will be copying those two from the folder and pasting them into the Pico (After I get my parts).
 
 <br>
 
