@@ -252,9 +252,8 @@ I have finished the case and ready to submit i have added the PCB to the case an
 
  So, I have watched many videos and did some research on the firmware, so I decided I was going with the KMK firmware, which is the simplest. I know the steps as soon as I get my components (parts). Really quickly I am going to touch on what is KMK and why am I using it.
  <br>
- 
-“KMK is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in [Circuit Python](https://github.com/adafruit/circuitpython).”
 
+“KMK is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in [Circuit Python](https://github.com/adafruit/circuitpython).”
 Here is a link to their [GitHub](https://github.com/KMKfw/kmk_firmware) with more information.
 I am using it because I find it much easier to use that QMK, the standard for most keyboards. It can all be done in plain text on any computer and is in Python.
 I’m making this instructable and the because I want more eyes on this project because I think its great, and I’m not good enough at python to help build software so I hope someone who does this can help with this project.
