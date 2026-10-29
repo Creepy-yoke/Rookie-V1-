@@ -260,7 +260,7 @@ I’m making this instructable and the because I want more eyes on this project 
 
  ## Entry 16 - FIRMWARE STEPS (After I get my parts) :
  Date: 10/27/2026 <br>
- ***Time worked: 40 min***
+ ***Time worked: 1 hr 20 min***
 
 These are the steps that I will be following in the future after I get my components (parts). There are only 2 steps that I need to do before writing the firmware code. So I will be writing the code before getting my parts so that when my parts are delivered to me, I will just copy the file that contains the code for my keyboard into the Pico.
 
@@ -277,7 +277,7 @@ These are the steps that I will be following in the future after I get my compon
 
 <br>
 
-SO, that was the step I need to before writing or pasting the firmware code into the Pico. the only thing which is left to write the code.
+SO, that was the step I need to take before writing or pasting the firmware code into the Pico. The only thing left is to write the code.
 
 
 
