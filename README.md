@@ -81,31 +81,29 @@ Source: [BOM V1.csv](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V
 <br>
 The following table lists the main components used in the Rookie V1 custom Alice keyboard. Prices are estimates in INR and may vary by supplier.
 
-
 | S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
 |---:|---|---|---:|---:|---|
 | 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
-| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 65 | ₹1,330 for 7 packs of 10 | [Supplier](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
-| 3  | Gateron hot-swap sockets | KS-2P02B01-01-a1; verify footprint | 65 | ₹650 | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
-| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 65 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
-| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 65 used | TBD | [Supplier](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) |
+| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 70 bought, 66 used | ₹1,330 for 7 packs of 10 | [Supplier](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
+| 3  | Gateron hot-swap sockets | CPG151101S11 / KS-2P02B01-01-a1; verify footprint | 66 | ₹650 (check this covers 66) | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
+| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 66 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 66 used | TBD (earlier estimate ₹559) | [Supplier](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) |
 | 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/) |
-| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://www.adafruit.com/product/512) |
-| 8  | Ceramic capacitors | 100 nF; package must match PCB | Confirm from KiCad | TBD | Confirm schematic |
-| 9  | Bulk capacitor | 470 uF; voltage/package must match PCB | 1  | TBD | Confirm schematic |
-| 10 | RGB data resistor | 330 ohm; package must match PCB | 1  | TBD | Confirm schematic |
-| 11 | Additional resistor | Value/package to be confirmed | 1  | TBD | Check schematic |
-| 12 | PCB-mount stabilizer | 2U | 1 provisional | TBD | Confirm layout |
-| 13 | PCB-mount stabilizer | 2.25U | 3 provisional | TBD | Confirm layout |
-| 14 | PCB-mount stabilizer | 2.75U | 1 provisional | TBD | Confirm layout |
-| 15 | Pico header pins or sockets | Only if required by mounting method | As required | TBD | Confirm assembly |
-| 16 | OLED connector/header | 4-pin, only if used | As required | TBD | Confirm assembly |
-| 17 | Joystick connector/header | Matching the selected module, only if used | As required | TBD | Confirm assembly |
-| 18 | M3 screws and standoffs | Length/quantity from final CAD | As required | TBD | Confirm assembly |
-| 19 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
-| 20 | Custom keyboard case | Rookie V1; include all separate case pieces | As per CAD | ₹0 | printed at home |
-| 21 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
-| 22 | USB cable | Type - C     | 1 if supplied | TBD | Confirm connector |
+| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
+| 8  | Ceramic capacitor | 100 nF, 0603 | 9 | TBD | Add supplier link |
+| 9  | Tantalum capacitor | 470 uF, EIA-7343-31 (D case) | 1 | TBD | Add supplier link |
+| 10 | Resistor | 330 ohm, 0603 (RGB data line) | 1 | TBD | Add supplier link |
+| 11 | PCB-mount stabilizer | 2U | 1 | TBD | Add supplier link |
+| 12 | PCB-mount stabilizer | 2.25U | 3 | TBD | Add supplier link |
+| 13 | PCB-mount stabilizer | 2.75U | 2 | TBD | Add supplier link |
+| 14 | Pin header | 1x04, 2.54 mm (OLED) | 1 | TBD | Add supplier link |
+| 15 | Pin header | 1x05, 2.54 mm (joystick) | 1 | TBD | Add supplier link |
+| 16 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | TBD | Add supplier link |
+| 17 | M3 screws | 6 mounting holes; length from final CAD | 6 | TBD | Add supplier link |
+| 18 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
+| 19 | Custom keyboard case | Rookie V1 | As per CAD | ₹0 | printed at home |
+| 20 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
+| 21 | USB cable | Type-C | 1 | ₹0 if already owned | n/a |
 
 
 ### Partial Cost Summary
