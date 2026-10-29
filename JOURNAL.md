@@ -248,9 +248,12 @@ I have finished the case and ready to submit i have added the PCB to the case an
 <img width="550" height="700" alt="image" src="https://github.com/user-attachments/assets/d7c10dde-fdc1-4735-bf20-65308e544450" />
 
 <br>
+
+
  So, I have watched many videos and did some research on the firmware, so I decided I was going with the KMK firmware, which is the simplest. I know the steps as soon as I get my components (parts). Really quickly I am going to touch on what is KMK and why am I using it.
  <br>
-“KMK is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in [CircuitPython](https://github.com/adafruit/circuitpython).”
+ 
+“KMK is a feature-rich and beginner-friendly firmware for computer keyboards written and configured in [Circuit Python](https://github.com/adafruit/circuitpython).”
 
 Here is a link to their [GitHub](https://github.com/KMKfw/kmk_firmware) with more information.
 I am using it because I find it much easier to use that QMK, the standard for most keyboards. It can all be done in plain text on any computer and is in Python.
@@ -264,7 +267,7 @@ I’m making this instructable and the because I want more eyes on this project 
 
 These are the steps that I will be following in the future after I get my components (parts). There are only 2 steps that I need to do before writing the firmware code. So I will be writing the code before getting my parts so that when my parts are delivered to me, I will just copy the file that contains the code for my keyboard into the Pico.
 
-- STEP 1 - So first I need to install Circuit Python on the Pico; for this, I just need to download the CircuitPython UF2 from [Adafruit's Website](https://circuitpython.org/downloads). Now I need to plug my Pico into my computer/laptop, and it will show as an external storage device; then we just need to drag the UF2 file that we just downloaded into the Pico. It should eject itself and install CircuitPython and show backup. AND just like that, bada bing bada boom Circui tPython is installed on my Pico. 
+- STEP 1 - So first I need to install Circuit Python on the Pico; for this, I just need to download the CircuitPython UF2 from [Adafruit's Website](https://circuitpython.org/board/raspberry_pi_pico/). Now I need to plug my Pico into my computer/laptop, and it will show as an external storage device; then we just need to drag the UF2 file that we just downloaded into the Pico. It should eject itself and install CircuitPython and show backup. AND just like that, bada bing bada boom Circui tPython is installed on my Pico. 
 
 <br>
 
@@ -276,14 +279,14 @@ These are the steps that I will be following in the future after I get my compon
 
 
 <br>
-
+ 
 SO, that was the step I need to take before writing or pasting the firmware code into the Pico. The only thing left is to write the code.
 
 
 
  ## Entry 18 - Writing the FIRMWARE (CODE)
  Date: 10/28/2026 <br>
- ***Time worked: 0 min***
+ ***Time worked: ?? hr***
 
 SO, wassup people in this brand new day. I have written the code for my firmware for my keyboard. I have created a file named called " main.py " (can also use the file name "code.py "). This is mainly done using a code.py file. There should be one on the Pico; if not, we just need to create a new file called code.py. I can just ignore that and make my own file. I will be using VS Code to write my code; I can also use Notepad++ or just Notepad, I can edit this file using Notepad++, but this can also be done in Notepad in the future.
 <br>
@@ -291,6 +294,8 @@ I just need to copy the example code from the GitHub page and paste it into the 
 
 
 <img width="516" height="700" alt="image" src="https://github.com/user-attachments/assets/87250d14-595b-46fd-af98-8574130e2679" />
+
+<br>
 
 I need to give this file all the specifics of my num pad.
 To do this, I first need to give the code the pin numbers for the rows and columns in lines. Next, I need to change the diode orientation, as the code needs to know how everything is set up. I changed it from COL2ROW to ROW2COL.
