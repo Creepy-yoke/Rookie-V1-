@@ -289,7 +289,7 @@ SO, that was the step I need to take before writing or pasting the firmware code
 
 SO, wassup people in this brand new day. I have written the code for my firmware for my keyboard. I have created a file named called " main.py " (can also use the file name "code.py "). This is mainly done using a code.py file. There should be one on the Pico; if not, we just need to create a new file called code.py. I can just ignore that and make my own file. I will be using VS Code to write my code; I can also use Notepad++ or just Notepad, I can edit this file using Notepad++, but this can also be done in Notepad in the future.
 <br>
-I just need to copy the example code from the GitHub page and paste it into the main.py file; I still need to edit this according to my rows, columns, and keymaps, etc.
+I just need to copy the example format from the GitHub page and paste it into the main.py file; I still need to edit this according to my rows, columns, and keymaps, etc.
 
 
 <img width="516" height="700" alt="image" src="https://github.com/user-attachments/assets/87250d14-595b-46fd-af98-8574130e2679" />
@@ -300,6 +300,32 @@ I need to give this file all the specifics of my num pad.
 To do this, I first need to give the code the pin numbers for the rows and columns in lines. Next, I need to change the diode orientation, as the code needs to know how everything is set up. I changed it from COL2ROW to ROW2COL.
 Most of the way done now; I just need to add the key map, or what keys should be where. I referenced this web page to find all the key codes I can use. I won’t go over this in detail but take a look and what I used and make any changes you want. <br>
 OK, I WILL BE SEEING U AFTER SOME FINAL TOUCHES TO THE FIRMWARE. PROBABLY I WILL DO IT TOMORROW
+
+
+## Entry 19 - LOOK AT THE FIRMWARE 
+ Date: 10/29/2026 <br>
+ ***Time worked: 1 hr 25 min***
+
+
+OK, I just want to make an entry that I have now finished assigning all the keys in the keymap, including their positions and functions. It took some time to organise the key positions and double-check the assignments, especially because of the angled Alice layout. I am happy that I have finally completed this part because it brings my keyboard one step closer to becoming a working product rather than just a PCB design.
+I also completed the GPIO pin assignments for the keyboard matrix, connecting the appropriate pins for the rows and columns. I made sure that the firmware layout matches the physical key placement on my PCB so that each key will correspond to its correct position when pressed.
+This is an important step towards getting my keyboard fully functional, as the firmware will allow the microcontroller to recognise key presses and send the correct inputs to the computer.
+
+<br> 
+
+<img width="1089" height="651" alt="image" src="https://github.com/user-attachments/assets/79c49df7-da81-4646-8b34-143dfe3ab4df" />
+
+<br>
+
+
+
+
+
+
+
+
+
+
 
 
 
