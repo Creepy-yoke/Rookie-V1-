@@ -13,7 +13,7 @@ HERE'S THE KEYBORAD [RAW DATA](https://github.com/Creepy-yoke/Rookie-V1-/blob/ma
 <img width="432" height="189" alt="layouut" src="https://github.com/user-attachments/assets/d36e256b-bb1d-48da-ae0b-e1364ab0c700" />
                                                                                                                 
 ## Entry 2 — MAKING my SCHEMATIC
-Date: 7/31/2026 <br>
+Date: 07/31/2026 <br>
 ***Time worked: 4 hr*** 
 
 Today I started making my first keyboard schematic in KiCad. First, I added all the symbols from the symbol library, like the switches, diodes, SK6812 RGB LEDs, Raspberry Pi Pico, OLED, and the joystick so it will look cool. I started with the matrix and made a lot of nice progress with tracing and connecting the other components. I also fixed some wiring and checked that everything was connected properly.
@@ -24,7 +24,7 @@ Today I started making my first keyboard schematic in KiCad. First, I added all 
 
 
 ## Entry 3 — Adding the Other Components in Schematic
-Date: 8/01/2026 <br>
+Date: 08/01/2026 <br>
 ***Time worked: 3 hr*** 
 
 After the main keyboard matrix was done, I added the extra features I wanted. I added an OLED for displaying information and a joystick that I can use for mouse control. I also added resistors and capacitors for the RGB . I considered adding some other things during the project, but I removed or changed a few ideas to keep the keyboard manageable.                                     
@@ -41,7 +41,7 @@ I have finished my RGB light matrix thingyy , and I was having some  ERRORS whil
   AND TIME TO GET BACK TO KICAD , SEE U 
 
 ## Entry 4 — Wiring UP Everything to each other
-Date: 8/02/2026 <br>  
+Date: 08/02/2026 <br>  
 ***Time worked: 4 hr*** 
 
 <br>
@@ -60,7 +60,7 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 <br>
 
 ## Entry 5 — Assigning Footprints
-Date: 8/04/2026 <br>
+Date: 08/04/2026 <br>
 ***Time worked: 3 hr*** 
 
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
@@ -71,7 +71,7 @@ The schematic is mostly finished, I started assigning footprints to the componen
 <img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/ed8846e9-3c24-44a4-84c7-ceeffd28b952" />
 
 ## Entry 6 — FINAL LOOK OF SCHEMATIC
-Date: 8/05/2026 <br>
+Date: 08/05/2026 <br>
 ***Time worked: 2 hr*** 
 
 ### Okay it's me after many  hours later :- 
@@ -87,7 +87,7 @@ Seeing the schematic finally come together feels really satisfying and everythin
 #### NOW  IT'S READY FOR THE PCB LAYOUT , (BUT FIRS I NEED SOME REST, MY BACK IS PAINING)
 
  ## Entry 7 — MAKING my PCB
-Date: 8/06/2026 <br>
+Date: 08/06/2026 <br>
 ***Time worked: 3 hr*** 
 
 ###  Arranging the PCB
@@ -96,7 +96,7 @@ After assigning the footprints, I moved everything from the schematic into the P
 <img width="1073" height="465" alt="image" src="https://github.com/user-attachments/assets/7b749477-4d4e-48d5-9fdc-d83849447b36" />
 
 ## Entry 8 — Routing the PCB 
-Date: 8/07/2026 <br>
+Date: 08/07/2026 <br>
 ***Time worked: 4 hr*** 
 
 After arranging all the components on the PCB, I started working on routing the traces.
@@ -113,7 +113,7 @@ After routing the matrix, I worked on the connections for the Oled display, Joys
 OLED and Joystick were easy but the       RGB Leds took me a lot of time to complete
 
 ## Entry 9 — RGB LED Routing 
-Date: 8/08/2026 <br>
+Date: 08/08/2026 <br>
 ***Time worked: 3 hr*** 
 
 The RGB LEDs required additional routing because each LED needed connections for power, ground, data input, and data output.
@@ -130,7 +130,7 @@ And for the GND (Ground Plate) l did not connect it manually thanks to an friend
 
 
 ##  Entry 10 — Routing All Connections To Pico PI + DRC ERRORS
-Date: 8/10/2026 <br>
+Date: 08/10/2026 <br>
 ***Time worked: 4 hr***
 
 Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
@@ -335,7 +335,7 @@ So I am here to give you the wonderful news that I have competed our firmware fo
 
 
 ## Entry 21 - CALCULATION 
- Date: 10/30/2026 <br>
+ Date: 10/31/2026 <br>
  ***Time worked: 2 hr***
 
 So, I first made a table and then listed out what components I need for my keyboard and added them to the Excel sheet. I still need to confirm a few things like prices and check before I submit it.
