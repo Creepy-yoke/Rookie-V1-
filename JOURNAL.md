@@ -334,7 +334,63 @@ This is an important step towards getting my keyboard fully functional, as the f
 So I am here to give you the wonderful news that I have competed our firmware for my Alice Layout Keyboard. So heres what i did i this 28 mins, first i have imported the RGB extension thing the made a another layer mostly to control my RGB lghts. And alsoi got few bugs in my keymap and
 
 
+## Entry 21 - CALCULATION 
+ Date: 10/30/2026 <br>
+ ***Time worked: 2 hr***
 
+So, I first made a table and then listed out what components I need for my keyboard and added them to the Excel sheet. I still need to confirm a few things like prices and check before I submit it.
+
+<br>
+
+ <img width="1233" height="671" alt="image" src="https://github.com/user-attachments/assets/4befad0b-5cef-4099-a1f8-91f02f32d168" />
+
+<br>
+
+
+Ok, just finished calculating how much this would cost, with the BOM and everything. Everything is good to go; finally completed the whole thing. Here are the results: 
+
+<br>
+
+### Bill of Materials
+
+
+| S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
+|---:|---|---|---:|---:|---|
+| 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
+| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 70 bought, 66 used | ₹1,330 for 7 packs of 10 | [Supplier](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
+| 3  | Gateron hot-swap sockets | CPG151101S11 / KS-2P02B01-01-a1; verify footprint | 66 | ₹650 (check this covers 66) | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
+| 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 66 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 66 used | TBD (earlier estimate ₹559) | [Supplier](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) |
+| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/) |
+| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
+| 8  | Ceramic capacitor | 100 nF, 0603 | 9 | TBD | Add supplier link |
+| 9  | Tantalum capacitor | 470 uF, EIA-7343-31 (D case) | 1 | TBD | Add supplier link |
+| 10 | Resistor | 330 ohm, 0603 (RGB data line) | 1 | TBD | Add supplier link |
+| 11 | PCB-mount stabilizer | 2U | 1 | TBD | Add supplier link |
+| 12 | PCB-mount stabilizer | 2.25U | 3 | TBD | Add supplier link |
+| 13 | PCB-mount stabilizer | 2.75U | 2 | TBD | Add supplier link |
+| 14 | Pin header | 1x04, 2.54 mm (OLED) | 1 | TBD | Add supplier link |
+| 15 | Pin header | 1x05, 2.54 mm (joystick) | 1 | TBD | Add supplier link |
+| 16 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | TBD | Add supplier link |
+| 17 | M3 screws | 6 mounting holes; length from final CAD | 6 | TBD | Add supplier link |
+| 18 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
+| 19 | Custom keyboard case | Rookie V1 | As per CAD | ₹0 | printed at home |
+| 20 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
+| 21 | USB cable | Type-C | 1 | ₹0 if already owned | n/a |
+
+
+
+### Partial Cost Summary
+
+The currently priced items total approximately **₹2,715.20 before joystick GST**.
+This is not the full keyboard cost. RGB LEDs, remaining electronic parts,
+stabilizers, mounting hardware, PCB fabrication, plate, case, keycaps
+and shipping still need confirmed prices.
+The rotary encoder is not included because it was removed from the design.
+
+
+
+[HERE](https://github.com/Creepy-yoke/Rookie-V1-/blob/main/BOM%20V1.csv) is my Kicad BOM.csv
 
 
 
