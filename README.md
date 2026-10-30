@@ -66,6 +66,7 @@ Source : [Rookie V1 (CASE).step](https://github.com/Creepy-yoke/Rookie-V1-/tree/
 <img width="884" height="506" alt="image" src="https://github.com/user-attachments/assets/d134c56b-84ef-4d43-a8ee-1d3c05b1d169" />
 
 <br>
+
 [Onshape link](https://cad.onshape.com/documents/d718c6f2bf8f1306fd075cc1/w/1f65e877d90938ffe0379d49/e/f8198137f6d496df892af1f1?renderMode=0&uiState=6add21e3e21be264acb29ac8)
 
 
