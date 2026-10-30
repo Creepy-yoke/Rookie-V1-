@@ -285,16 +285,26 @@ SO, that was the step I need to take before writing or pasting the firmware code
 
  ## Entry 18 - Writing the FIRMWARE (CODE)
  Date: 10/28/2026 <br>
- ***Time worked: ?? hr***
+ ***Time worked: 1 hr***
 
 SO, wassup people in this brand new day. I have written the code for my firmware for my keyboard. I have created a file named called " main.py " (can also use the file name "code.py "). This is mainly done using a code.py file. There should be one on the Pico; if not, we just need to create a new file called code.py. I can just ignore that and make my own file. I will be using VS Code to write my code; I can also use Notepad++ or just Notepad, I can edit this file using Notepad++, but this can also be done in Notepad in the future.
 <br>
 I just need to copy the example format from the GitHub page and paste it into the main.py file; I still need to edit this according to my rows, columns, and keymaps, etc.
 
 
-<img width="516" height="700" alt="image" src="https://github.com/user-attachments/assets/87250d14-595b-46fd-af98-8574130e2679" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/87250d14-595b-46fd-af98-8574130e2679" width="48%" />
+  <img src="https://github.com/user-attachments/assets/1567aea3-72e4-4da3-a00a-12529deba50c" width="50%" />
+</p>
+
+
+
+
+
+
 
 <br>
+
 
 I need to give this file all the specifics of my num pad.
 To do this, I first need to give the code the pin numbers for the rows and columns in lines. Next, I need to change the diode orientation, as the code needs to know how everything is set up. I changed it from COL2ROW to ROW2COL.
@@ -304,7 +314,7 @@ OK, I WILL BE SEEING U AFTER SOME FINAL TOUCHES TO THE FIRMWARE. PROBABLY I WILL
 
 ## Entry 19 - LOOK AT THE FIRMWARE 
  Date: 10/29/2026 <br>
- ***Time worked: 1 hr 25 min***
+ ***Time worked: 28 min***
 
 
 OK, I just want to make an entry that I have now finished assigning all the keys in the keymap, including their positions and functions. It took some time to organise the key positions and double-check the assignments, especially because of the angled Alice layout. I am happy that I have finally completed this part because it brings my keyboard one step closer to becoming a working product rather than just a PCB design.
