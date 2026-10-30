@@ -145,8 +145,8 @@ Keyboard Matrix , Rgb , Joystick  , Display -} u can check out my file [HERE](ht
 
 <br>
 
+##### DRC Errors for PCB :-
 
-### DRC Errors for PCB :-
 After completing most of the routing, I ran the Design Rules Checker (DRC) in KiCad to look for problems such as:
 Unconnected connections
 Clearance violations
@@ -156,7 +156,7 @@ I then went back and fixed the errors that appeared It was no sweat just some te
 At this point, the PCB was starting to look GREAT 👍🏻 
 <br>
 <img width="662" height="524" alt="image" src="https://github.com/user-attachments/assets/9213d0af-47b2-4bdf-aa21-928f8f199b56" />
-### Next step: To add its shape
+##### Next step: To add its shape
 
 ##  Entry 11 — SHAPE OF THE PCB 
 Date: 8/11/2026 <br>
