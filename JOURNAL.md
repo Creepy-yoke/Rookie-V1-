@@ -345,7 +345,7 @@ This is an important step towards getting my keyboard fully functional, as the f
 
 
 ## Entry 21 - CALCULATION 
- Date: 00/00/2026 <br>
+ Date: 10/31/2026 <br>
  ***Time worked: 2 hr***
 
 So, I first made a table and then listed out what components I need for my keyboard and added them to the Excel sheet. I still need to confirm a few things like prices and check before I submit it.
