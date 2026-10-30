@@ -35,7 +35,7 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 
 - 65% Alice layout — split and angled for a more ergonomic typing position.
 - Raspberry Pi Pico (RP2040) 
-- 65 keys [Gateron G Pro 3.0 RGB switches](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) arranged in my custom 5 × 15 matrix. MX-compatible mechanical switches.
+- 65 keys [Gateron G Pro 3.0 RGB switches](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/). MX-compatible mechanical switches.
 - Hot-swappable sockets 
 - Per-key RGB - 65 [SK6812 MINI-E](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) 
 - [OLED Display](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/)
