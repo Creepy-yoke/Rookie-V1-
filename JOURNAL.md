@@ -60,7 +60,7 @@ OKAY! the only things I need to do is assign footprints and solve some ERC ERROR
 <br>
 
 ## Entry 5 — Assigning Footprints
-Date: 8/03-04/2026 <br>
+Date: 8/04/2026 <br>
 ***Time worked: 3 hr*** 
 
 The schematic is mostly finished, I started assigning footprints to the components. This was a little confusing at first because I learned that the symbol in the schematic and the actual footprint on the PCB are different things. I used the KiCad libraries and the ai03 keyboard library (Downloaded from GitHub) to find suitable footprints for the switches, stabilizers and other components.
@@ -130,7 +130,7 @@ And for the GND (Ground Plate) l did not connect it manually thanks to an friend
 
 
 ##  Entry 10 — Routing All Connections To Pico PI + DRC ERRORS
-Date: 8/09-10/2026 <br>
+Date: 8/010/2026 <br>
 ***Time worked: 4 hr***
 
 Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
@@ -345,7 +345,7 @@ This is an important step towards getting my keyboard fully functional, as the f
 
 
 ## Entry 21 - CALCULATION 
- Date: 10/31/2026 <br>
+ Date: 10/30/2026 <br>
  ***Time worked: 2 hr***
 
 So, I first made a table and then listed out what components I need for my keyboard and added them to the Excel sheet. I still need to confirm a few things like prices and check before I submit it.
