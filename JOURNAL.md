@@ -314,7 +314,7 @@ OK, I WILL BE SEEING U AFTER SOME FINAL TOUCHES TO THE FIRMWARE. PROBABLY I WILL
 
 ## Entry 19 - LOOK AT THE FIRMWARE 
  Date: 10/29/2026 <br>
- ***Time worked: 28 min***
+ ***Time worked: 34 min***
 
 
 OK, I just want to make an entry that I have now finished assigning all the keys in the keymap, including their positions and functions. It took some time to organise the key positions and double-check the assignments, especially because of the angled Alice layout. I am happy that I have finally completed this part because it brings my keyboard one step closer to becoming a working product rather than just a PCB design.
@@ -344,7 +344,7 @@ This is an important step towards getting my keyboard fully functional, as the f
 
 
 
-## Entry ? - CALCULATION 
+## Entry 21 - CALCULATION 
  Date: 00/00/2026 <br>
  ***Time worked: 2 hr***
 
