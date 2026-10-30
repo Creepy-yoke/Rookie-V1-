@@ -39,7 +39,8 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 - Hot-swappable sockets 
 - Per-key RGB - 65 [SK6812 MINI-E](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) 
 - [OLED Display](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/)
-- [Analog joystick](https://www.adafruit.com/product/512) 
+- [Analog joystick](https://www.adafruit.com/product/512)
+- KMK Keyboard firmware.
 - PCB-mounted stabilizers — for my larger keys.
 - M3 mounting hardware — for mounting the PCB/case.
 - Custom Case for the keyboard 
