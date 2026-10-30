@@ -113,7 +113,7 @@ After routing the matrix, I worked on the connections for the Oled display, Joys
 OLED and Joystick were easy but the       RGB Leds took me a lot of time to complete
 
 ## Entry 9 — RGB LED Routing 
-Date: 08/08/2026 <br>
+Date: 8/08/2026 <br>
 ***Time worked: 3 hr*** 
 
 The RGB LEDs required additional routing because each LED needed connections for power, ground, data input, and data output.
@@ -130,7 +130,7 @@ And for the GND (Ground Plate) l did not connect it manually thanks to an friend
 
 
 ##  Entry 10 — Routing All Connections To Pico PI + DRC ERRORS
-Date: 8/010/2026 <br>
+Date: 8/10/2026 <br>
 ***Time worked: 4 hr***
 
 Well this was preety easy , l just need to route the  connections of Keyboard Matrix (Rows and Columns) , Rgb  to  there GPIO pins on the Pico Pi
@@ -159,7 +159,7 @@ At this point, the PCB was starting to look GREAT 👍🏻
 ##### Next step: To add its shape
 
 ##  Entry 11 — SHAPE OF THE PCB 
-Date: 8/11/2026 <br>
+Date: 08/11/2026 <br>
 ***Time worked: 2 hr*** 
 
 Like this was preety much easy to just selected the layer Edge Cut and put lines accordingly to my reference pic at top , I can also just make it an rectangular box but i just chose that cause while l design my case it will give me an idea for the perimeter ig. The hard part here was keeping the angles the same.
@@ -171,7 +171,7 @@ I added there 3d models from GrabCAD so l can get a preety good look how my Keyb
 <br>
 
 ## Entry 12 — Last look of the PCB
-Date: 8/12/2026 <br>
+Date: 08/12/2026 <br>
 ***Time worked: 2 hr***
 
 <br>
@@ -191,7 +191,7 @@ SO LETS GET GOING ,BYE
 ###### *TOTAL HOURS FOR PCB* :  18hr (Entries 7-12)
 
 ## Entry 13 — THE CASE
-Date: 8/13/2026 <br>
+Date: 08/13/2026 <br>
 ***Time worked: 1 hr 30 min***
 
 ### Choosing the mount
