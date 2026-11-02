@@ -46,6 +46,20 @@ This project is helping me learn more about PCB design, KiCad, and how a keyboar
 - Custom Case for the keyboard 
 - Custom PCB — designed specifically for my Alice layout.
 
+## Repository Structure
+
+- `src/kicad/` - KiCad project sources
+- `src/kicad/cad/` - full 3d model
+- `production/` - PCB fabrication files (Gerbers, BOM, Pick & Place)
+- `images/` - images used in the README and documentation
+
+
+
+
+
+
+
+
 ## Schematic on KiCad
 Source : [Rookie V1.kicad_sch](https://github.com/Creepy-yoke/Rookie-V1-/tree/main/Rookie%20V1%20(PCB))
 <br>
