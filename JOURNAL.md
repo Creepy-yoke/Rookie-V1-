@@ -331,7 +331,12 @@ This is an important step towards getting my keyboard fully functional, as the f
  Date: 10/30/2026 <br>
  ***Time worked: 28 min***
 
-So I am here to give you the wonderful news that I have competed our firmware for my Alice Layout Keyboard. So heres what i did i this 28 mins, first i have imported the RGB extension thing the made a another layer mostly to control my RGB lghts. And alsoi got few bugs in my keymap and
+So I am here to give you the wonderful news that I have competed our firmware for my Alice Layout Keyboard. So heres what i did i this 28 mins, first i have imported the RGB extension thing the made a another layer mostly to control my RGB lghts. And alsoi got few bugs in my keymap , i think cant understand OR see what changes I have made OR  what i did, cause its hard to tell ut anyways here's the final look of the Rookie V1 FIRMWARE code 
+
+<br>
+
+<img width="500" height="280" alt="image" src="https://github.com/user-attachments/assets/1b78833f-0453-4003-8c3d-16f2158e4a9e" />
+
 
 
 ## Entry 21 - CALCULATION 
