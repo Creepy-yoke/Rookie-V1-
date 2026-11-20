@@ -109,17 +109,15 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 8  | Ceramic capacitor | 100 nF, 0603 | 9 | ₹110 + DELIVERY CHARGES | [Supplier](https://quartzcomponents.com/products/kemet-100nf-50v-0603-smd-pack-x7r-multilayer-ceramic-capacitor-10-tolerence-pack-of-20?variant=45972486193386&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AYCX9vIfgTcyrd-II9CyMfqFzd5nxMP6D4AUoj5F9ZjjECFunwRQQPfssjM)|
 | 9  | Tantalum capacitor | 470 uF, EIA-7343-31 (D case) | 1 | ₹240 | [Supplier](https://www.lioncircuits.com/parts/T495D477K006ATE125) |
 | 10 | Resistor | 330 ohm, 0603 (RGB data line) | 1 | ₹10 APPROX | [Supplier](https://quartzcomponents.com/products/yageo-330-ohm-0603-package-1-10w-smd-resistor-1-tolerance-pack-of-20-pieces?variant=45984537542890&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AYCX9vJC7lJcuKMP9mahvHg0lnfc31SXbUJrbfpINtC9SYzPETxp8xx3zEo) |
-| 11 | PCB-mount stabilizer | 2U | 1 | ₹90 | [Supplier](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43389442293813) |
-| 12 | PCB-mount stabilizer | 2.25U | 3 | TBD | Add supplier link |
-| 13 | PCB-mount stabilizer | 2.75U | 2 | TBD | Add supplier link |
-| 14 | Pin header | 1x04, 2.54 mm (OLED) | 1 | ₹30 + CHARGES | [Supplier](https://www.digikey.in/en/products/detail/w-rth-elektronik/61300411121/4846827?gclsrc=aw.ds&gad_source=1&gad_campaignid=23291937036&gbraid=0AAAAADrbLliIKDD3judFXeSwHiSCe5YKZ&gclid=Cj0KCQiA2frXBhC_ARIsAPTFcdMQ4Kjc29z9y8HaujkPr1E9KDwt0FmG2u3ggHy4rKL1xhABJRWNmgkaAjFXEALw_wcB) |
-| 15 | Pin header | 1x05, 2.54 mm (joystick) | 1 | ₹30 + DELIVERY CHARGES | [Supplier](https://robu.in/product/a2541wr-5p-9t-cjt-1x5-pin-2-54mm-90-single-row-pin-header-rohs/) |
-| 16 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | ₹50 + CHARGES | [Supplier](https://www.electropi.in/20x2-male-berg-strip-straight-header) |
-| 17 | M3 screws | 6 mounting holes; length from final CAD | 6 | ₹10 | [Supplier](https://onlyscrews.in/products/m3-x-12mm-phillips-countersunk-csk-mild-steel-black-oxide-screw-dia-3mm-length-12mm?currency=INR&country=IN&variant=67547588133177&stkn=6e84ebfba1b8&utm_adgroup=&utm_assetgroup=6756574039&utm_term=&utm_matchtype=&utm_network=x) |
-| 18 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
-| 19 | Custom keyboard case | Rookie V1 | As per CAD | ₹0 | PRINTED AT HOME |
-| 20 | MX-compatible keycap set |  fit the exact Alice layout | 1 compatible set | ₹2,750 | [Supplier](https://neomacro.in/products/soulcat-dragon-pattern-keycaps-pre-order) |
-| 21 | USB cable | Type-C | 1 | ₹150 | [Supplier](https://www.amazon.in/dp/B09KH58JZR/ref=sspa_dk_detail_0?aref=5t1nLzLZEZ&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) |
+| 11 | PCB-mount stabilizer | 2U, 2.25U, 2.75U  | 6 | ₹540 | [Supplier](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43389442293813) |
+| 12 |Pin header | 1x04, 2.54 mm (OLED) | 1 | ₹30 + CHARGES | [Supplier](https://www.digikey.in/en/products/detail/w-rth-elektronik/61300411121/4846827?gclsrc=aw.ds&gad_source=1&gad_campaignid=23291937036&gbraid=0AAAAADrbLliIKDD3judFXeSwHiSCe5YKZ&gclid=Cj0KCQiA2frXBhC_ARIsAPTFcdMQ4Kjc29z9y8HaujkPr1E9KDwt0FmG2u3ggHy4rKL1xhABJRWNmgkaAjFXEALw_wcB) |
+| 13 |Pin header | 1x05, 2.54 mm (joystick) | 1 | ₹30 + DELIVERY CHARGES | [Supplier](https://robu.in/product/a2541wr-5p-9t-cjt-1x5-pin-2-54mm-90-single-row-pin-header-rohs/) |
+| 14 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | ₹50 + CHARGES | [Supplier](https://www.electropi.in/20x2-male-berg-strip-straight-header) |
+| 15 | M3 screws | 6 mounting holes; length from final CAD | 6 | ₹10 | [Supplier](https://onlyscrews.in/products/m3-x-12mm-phillips-countersunk-csk-mild-steel-black-oxide-screw-dia-3mm-length-12mm?currency=INR&country=IN&variant=67547588133177&stkn=6e84ebfba1b8&utm_adgroup=&utm_assetgroup=6756574039&utm_term=&utm_matchtype=&utm_network=x) |
+| 16 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
+| 17 | Custom keyboard case | Rookie V1 | As per CAD | ₹0 | PRINTED AT HOME |
+| 18 | MX-compatible keycap set |  fit the exact Alice layout | 1 compatible set | ₹2,750 | [Supplier](https://neomacro.in/products/soulcat-dragon-pattern-keycaps-pre-order) |
+| 19 | USB cable | Type-C | 1 | ₹150 | [Supplier](https://www.amazon.in/dp/B09KH58JZR/ref=sspa_dk_detail_0?aref=5t1nLzLZEZ&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) |
 
 
 ### Partial Cost Summary
