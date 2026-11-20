@@ -107,7 +107,7 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹230 | [Supplier](https://www.flyrobo.in/0.91-inch-128-32-oled-display-module-with-i2c-iic-serial-interface?tracking=ads&tracking=4a9a9a) |
 | 7  | Analog joystick module | X/Y axes with push button | 1 | ₹175 + GST & DELIVERY CHARGES | [Supplier](https://www.amazon.in/Prakti-Joystick-Module-Breakout-Sensor/dp/B0BTXGX8R9) |
 | 8  | Ceramic capacitor | 100 nF, 0603 | 9 | ₹110 + DELIVERY CHARGES | [Supplier](https://quartzcomponents.com/products/kemet-100nf-50v-0603-smd-pack-x7r-multilayer-ceramic-capacitor-10-tolerence-pack-of-20?variant=45972486193386&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AYCX9vIfgTcyrd-II9CyMfqFzd5nxMP6D4AUoj5F9ZjjECFunwRQQPfssjM)|
-| 9  | Tantalum capacitor | 470 uF, EIA-7343-31 (D case) | 1 | TBD | Add supplier link |
+| 9  | Tantalum capacitor | 470 uF, EIA-7343-31 (D case) | 1 | ₹240 | [Supplier](https://www.lioncircuits.com/parts/T495D477K006ATE125) |
 | 10 | Resistor | 330 ohm, 0603 (RGB data line) | 1 | ₹10 APPROX | [Supplier](https://quartzcomponents.com/products/yageo-330-ohm-0603-package-1-10w-smd-resistor-1-tolerance-pack-of-20-pieces?variant=45984537542890&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AYCX9vJC7lJcuKMP9mahvHg0lnfc31SXbUJrbfpINtC9SYzPETxp8xx3zEo) |
 | 11 | PCB-mount stabilizer | 2U | 1 | ₹90 | [Supplier](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43389442293813) |
 | 12 | PCB-mount stabilizer | 2.25U | 3 | TBD | Add supplier link |
