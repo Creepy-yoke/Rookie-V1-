@@ -113,7 +113,7 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | 12 | PCB-mount stabilizer | 2.25U | 3 | TBD | Add supplier link |
 | 13 | PCB-mount stabilizer | 2.75U | 2 | TBD | Add supplier link |
 | 14 | Pin header | 1x04, 2.54 mm (OLED) | 1 | TBD | Add supplier link |
-| 15 | Pin header | 1x05, 2.54 mm (joystick) | 30 + DELIVERY CHARGES | [Supplier](https://robu.in/product/a2541wr-5p-9t-cjt-1x5-pin-2-54mm-90-single-row-pin-header-rohs/) |
+| 15 | Pin header | 1x05, 2.54 mm (joystick) | 1 | ₹30 + DELIVERY CHARGES | [Supplier](https://robu.in/product/a2541wr-5p-9t-cjt-1x5-pin-2-54mm-90-single-row-pin-header-rohs/) |
 | 16 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | ₹50 + CHARGES | [Supplier](https://www.electropi.in/20x2-male-berg-strip-straight-header) |
 | 17 | M3 screws | 6 mounting holes; length from final CAD | 6 | ₹10 | [Supplier](https://onlyscrews.in/products/m3-x-12mm-phillips-countersunk-csk-mild-steel-black-oxide-screw-dia-3mm-length-12mm?currency=INR&country=IN&variant=67547588133177&stkn=6e84ebfba1b8&utm_adgroup=&utm_assetgroup=6756574039&utm_term=&utm_matchtype=&utm_network=x) |
 | 18 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
