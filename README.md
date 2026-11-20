@@ -100,26 +100,26 @@ The following table lists the main components used in the Rookie V1 custom Alice
 | S.no | Product Name | Specification / Footprint | Quantity | Estimated Cost (INR) | Link |
 |---:|---|---|---:|---:|---|
 | 1  | Raspberry Pi Pico (USB-C) | RP2040 development board | 1 | ₹383.50 | [Supplier](https://www.thingbits.in/products/raspberry-pi-pico) |
-| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 70 bought, 66 used | ₹1,330 for 7 packs of 10 | [Supplier](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-g-pro-3-0-switch/) |
-| 3  | Gateron hot-swap sockets | CPG151101S11 / KS-2P02B01-01-a1; verify footprint | 66 | ₹650 (check this covers 66) | [Supplier](https://stackskb.com/store/gateron-hotswap-sockets/) |
+| 2  | Gateron G Pro 3.0 Brown switches | MX-compatible, 5-pin | 70 bought, 66 used | ₹5,250 for 100pcs  | [Supplier](https://www.amazon.in/Pre-lubed-Switches-Mechanical-Keyboard-Pcs-5pin/dp/B0CKTH36NB) |
+| 3  | Gateron hot-swap sockets | CPG151101S11 / KS-2P02B01-01-a1; verify footprint | 66 | ₹2,260  | [Supplier](https://www.amazon.in/FABLOFT-Connector-Computers-Tablets-Networking/dp/B0GGZWXYKK) |
 | 4  | Matrix diodes | 1N4148W-7-F, SOD-123 | 70 bought, 66 used | ₹86.45 | [Supplier](https://www.ktron.in/product/1n4148w-7-f-fast-switching-diode/) |
-| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 66 used | TBD (earlier estimate ₹559) | [Supplier](https://www.amazon.in/100PCS-Similar-WS2812B-Individually-Addressable/dp/B0DMNBBM9V) |
-| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹165.25 | [Supplier](https://amelectronics.in/product/0-91-inch-iic-4-pin-oled-display-module-ssd1306-white/) |
-| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹100 + GST | [Supplier](https://robboquad.com/analog-joystick-module/) |
+| 5  | SK6812 MINI-E | Addressable RGB LEDs | 70 bought, 66 used | ₹2,021 for 100pcs | [Supplier](https://www.etsy.com/in-en/listing/1564895619/sk6812-mini-e-rgb-led-100pcs-for) |
+| 6  | OLED display | SSD1306, 0.91-inch, 128x32, I2C | 1 | ₹230 | [Supplier](https://www.flyrobo.in/0.91-inch-128-32-oled-display-module-with-i2c-iic-serial-interface?tracking=ads&tracking=4a9a9a) |
+| 7  | Analog joystick module | X/Y axes with push button | 1 | ₹175 + GST & DELIVERY CHARGES | [Supplier](https://www.amazon.in/Prakti-Joystick-Module-Breakout-Sensor/dp/B0BTXGX8R9) |
 | 8  | Ceramic capacitor | 100 nF, 0603 | 9 | TBD | Add supplier link |
 | 9  | Tantalum capacitor | 470 uF, EIA-7343-31 (D case) | 1 | TBD | Add supplier link |
 | 10 | Resistor | 330 ohm, 0603 (RGB data line) | 1 | TBD | Add supplier link |
-| 11 | PCB-mount stabilizer | 2U | 1 | TBD | Add supplier link |
+| 11 | PCB-mount stabilizer | 2U | 1 | ₹90 | [Supplier](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43389442293813) |
 | 12 | PCB-mount stabilizer | 2.25U | 3 | TBD | Add supplier link |
 | 13 | PCB-mount stabilizer | 2.75U | 2 | TBD | Add supplier link |
 | 14 | Pin header | 1x04, 2.54 mm (OLED) | 1 | TBD | Add supplier link |
-| 15 | Pin header | 1x05, 2.54 mm (joystick) | 1 | TBD | Add supplier link |
-| 16 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | TBD | Add supplier link |
-| 17 | M3 screws | 6 mounting holes; length from final CAD | 6 | TBD | Add supplier link |
+| 15 | Pin header | 1x05, 2.54 mm (joystick) | 30 + DELIVERY CHARGES | [Supplier](https://robu.in/product/a2541wr-5p-9t-cjt-1x5-pin-2-54mm-90-single-row-pin-header-rohs/) |
+| 16 | Pico header pins | 2x 20-pin, only if the Pico has none | 2 | ₹50 + CHARGES | [Supplier](https://www.electropi.in/20x2-male-berg-strip-straight-header) |
+| 17 | M3 screws | 6 mounting holes; length from final CAD | 6 | ₹10 | [Supplier](https://onlyscrews.in/products/m3-x-12mm-phillips-countersunk-csk-mild-steel-black-oxide-screw-dia-3mm-length-12mm?currency=INR&country=IN&variant=67547588133177&stkn=6e84ebfba1b8&utm_adgroup=&utm_assetgroup=6756574039&utm_term=&utm_matchtype=&utm_network=x) |
 | 18 | Custom PCB | Two-layer FR-4, Rookie V1 Alice | 1 per keyboard | TBD | [Get quote](https://www.lioncircuits.com/) |
 | 19 | Custom keyboard case | Rookie V1 | As per CAD | ₹0 | printed at home |
 | 20 | MX-compatible keycap set | Must fit the exact Alice layout | 1 compatible set | TBD | Add supplier link |
-| 21 | USB cable | Type-C | 1 | ₹0 if already owned | n/a |
+| 21 | USB cable | Type-C | 1 | ₹150 | [Supplier](https://www.amazon.in/dp/B09KH58JZR/ref=sspa_dk_detail_0?aref=5t1nLzLZEZ&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw) |
 
 
 ### Partial Cost Summary
